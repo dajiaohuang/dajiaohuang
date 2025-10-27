@@ -7,7 +7,8 @@
 
 
 
-- 👋 Hi, I’m @dajiaohuang from SJTU, majored in Information Security.
+- 👋 Hi, I'm @dajiaohuang from SJTU (B.Eng. in Information Security, IEEE Honor Class). Currently pursuing M.Sc. in Data Science and Machine Learning at NUS.
+- 💻 Proficient in Python, Linux, Shell, LaTeX | Familiar with C++, Unreal Engine, Docker, etc.
 - 📫 You can reach me at mikewushuwen@gmail.com
 
 <p align="center"> 
@@ -31,7 +32,29 @@
 <summary>  Shanghai Jiao Tong University, Undergraduate</summary>
 </br>
 
-* 
+<!-- * **GPA:** 85.5/100 (Sept 2021 - Jun 2025) -->
+* **Major Courses:** 
+  * Algorithm Design and Analysis (A)
+  * C++ Program Design Practice (A+)
+  * Unreal Engine Program Design (A+)
+  * Artificial Intelligence Principles (A)
+  * Natural Language Processing (A)
+<!-- * **Honors & Awards:**
+  * First-Class Cyber-Security Scholarship (2023)
+  * Excellent League Member of SJTU (2022)
+  * Outstanding Freshman Award (2021) -->
+
+</details>
+
+<details>
+<summary>  National University of Singapore, Graduate</summary>
+</br>
+
+* **Program:** Master of Science in Data Science and Machine Learning (Aug 2025 - Current)
+* **Courses:** 
+  * Machine Learning
+  * Scalable Distributed Computing
+  * Data Management and Retrieval
 
 </details>
 
