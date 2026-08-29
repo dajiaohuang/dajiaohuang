@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://dajiaohuang.github.io/">
-    <img src="./assets/profile-banner.svg" alt="Wu Shuwen — 系统、智能体与证据 / systems, agents, and evidence" width="100%">
-  </a>
-</p>
-
-<p align="center">
   <strong>TikTok 软件工程实习生 · 新加坡国立大学 DSML 硕士 · 上海交通大学校友</strong><br>
   我构建智能体基础设施、证据优先工作流与科学交互界面。
 </p>
