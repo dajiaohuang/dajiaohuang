@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Wu Shuwen — systems, agents, and evidence</title>
+  <desc id="desc">A cool blue systems map connecting SagaSmith, RepoStew, Archive and Apply, Evo, and Solar around Wu Shuwen.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#edf3f7"/>
+      <stop offset="1" stop-color="#dce6ff"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#9db0bf" stroke-opacity=".27"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="318" rx="21" fill="none" stroke="#9db0bf"/>
+
+  <g fill="none" stroke="#849baa" stroke-width="1.5" stroke-dasharray="7 7">
+    <path d="M904 160C850 114 809 90 754 65"/>
+    <path d="M904 160C963 113 1014 93 1071 68"/>
+    <path d="M904 160C840 191 797 224 763 262"/>
+    <path d="M904 160C972 194 1021 224 1062 262"/>
+    <path d="M904 160V280"/>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <circle cx="904" cy="160" r="54" fill="#101a24"/>
+    <text x="904" y="168" fill="#edf3f7" font-size="24" font-weight="700">WS</text>
+
+    <g fill="#fff" stroke="#9db0bf">
+      <circle cx="750" cy="64" r="39"/>
+      <circle cx="1073" cy="66" r="39"/>
+      <circle cx="760" cy="264" r="39"/>
+      <circle cx="1065" cy="264" r="39"/>
+      <circle cx="904" cy="283" r="34"/>
+    </g>
+    <g fill="#101a24" font-size="12" font-weight="700">
+      <text x="750" y="61">ARCHIVE</text><text x="750" y="76">&amp; APPLY</text>
+      <text x="1073" y="70">REPOSTEW</text>
+      <text x="760" y="269">EVO</text>
+      <text x="1065" y="269">SOLAR</text>
+      <text x="904" y="280">SAGA</text><text x="904" y="293">SMITH</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, Times New Roman, serif" fill="#101a24">
+    <text x="72" y="107" font-size="58" letter-spacing="-2">Wu Shuwen</text>
+    <text x="72" y="168" font-size="34" font-style="italic" fill="#2457d6">systems, agents, and evidence</text>
+  </g>
+  <g font-family="Cascadia Mono, Consolas, monospace" fill="#586979" font-size="14" letter-spacing="1.4">
+    <text x="74" y="224">BUILD  /  RESEARCH  /  STEWARD</text>
+    <text x="74" y="260">SINGAPORE · UTC+8</text>
+  </g>
+  <circle cx="52" cy="252" r="6" fill="#0f8588"/>
+  <circle cx="1148" cy="47" r="9" fill="#2457d6"/>
+</svg>
