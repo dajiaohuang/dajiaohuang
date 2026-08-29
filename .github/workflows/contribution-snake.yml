@@ -1,0 +1,54 @@
+name: Refresh contribution activity
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: profile-contribution-activity
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Generate light and dark contribution activity
+        uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            output/github-contribution-grid-snake.svg?color_snake=%232457d6&color_dots=%23edf3f7,%23bfd0ff,%237c9bea,%232457d6,%23111a24
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%236da4ff
+
+      - name: Respect reduced-motion preferences
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          rule = "\n@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }\n"
+          for path in Path("output").glob("*.svg"):
+              content = path.read_text(encoding="utf-8")
+              if "</style>" not in content:
+                  raise RuntimeError(f"No style block found in {path}")
+              path.write_text(content.replace("</style>", f"{rule}</style>", 1), encoding="utf-8")
+          PY
+
+      - name: Commit refreshed assets
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git diff --staged --quiet && exit 0
+          git commit -m "chore: refresh contribution activity"
+          git pull --rebase origin main
+          git push origin HEAD:main

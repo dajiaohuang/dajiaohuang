@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Wu Shuwen — systems, agents, and evidence</title>
-  <desc id="desc">A cool blue systems map connecting SagaSmith, RepoStew, Archive and Apply, Evo, and Solar around Wu Shuwen.</desc>
+  <title id="title">Wu Shuwen — 系统、智能体与证据</title>
+  <desc id="desc">以 Wu Shuwen 为中心，连接 SagaSmith、RepoStew、Archive and Apply、Evo 与 Solar 的系统图。</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#edf3f7"/>
@@ -44,11 +44,11 @@
 
   <g font-family="Georgia, Times New Roman, serif" fill="#101a24">
     <text x="72" y="107" font-size="58" letter-spacing="-2">Wu Shuwen</text>
-    <text x="72" y="168" font-size="34" font-style="italic" fill="#2457d6">systems, agents, and evidence</text>
+    <text x="72" y="168" font-size="34" font-style="italic" fill="#2457d6">系统、智能体与证据</text>
   </g>
   <g font-family="Cascadia Mono, Consolas, monospace" fill="#586979" font-size="14" letter-spacing="1.4">
-    <text x="74" y="224">BUILD  /  RESEARCH  /  STEWARD</text>
-    <text x="74" y="260">SINGAPORE · UTC+8</text>
+    <text x="74" y="224">构建  /  研究  /  维护</text>
+    <text x="74" y="260">新加坡 · UTC+8</text>
   </g>
   <circle cx="52" cy="252" r="6" fill="#0f8588"/>
   <circle cx="1148" cy="47" r="9" fill="#2457d6"/>
