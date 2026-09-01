@@ -17,8 +17,8 @@
 | 系统 | 它认真对待的问题 |
 |---|---|
 | [**SagaSmith**](https://github.com/SagaSmithAI) | AI 原生 TTRPG 基础设施：由智能体理解与主持，确定性引擎结算规则，权威 MCP 服务管理状态。 |
-| [**RepoStew**](https://github.com/dajiaohuang/RepoStew_skills) | 将仓库维护做成长期闭环：核验、审计、修复、测试、提交，并持续跟进评审与 CI。 |
-| [**Archive & Apply**](https://github.com/dajiaohuang/Archive_and_Apply_Skill) | 以来源为先的职业与学术工作流，让每一条润色后的表述都能回溯到证据。 |
+| [**RepoStew**](https://dajiaohuang.github.io/RepoStew_skills/) · [源码](https://github.com/dajiaohuang/RepoStew_skills) | 将仓库维护做成长期闭环：核验、审计、修复、测试、提交，并持续跟进评审与 CI。 |
+| [**Archive & Apply**](https://dajiaohuang.github.io/Archive_and_Apply_Skill/) · [源码](https://github.com/dajiaohuang/Archive_and_Apply_Skill) | 以来源为先的职业与学术工作流，让每一条润色后的表述都能回溯到证据。 |
 | [**Evo Atlas**](https://dajiaohuang.github.io/evo/) | 静态优先的证据图谱，连接地质年代、化石记录、系统发育假说与科学不确定性。 |
 | [**Solar Atlas**](https://dajiaohuang.github.io/solar/) | 浏览器原生的太阳系动力学、小天体探索、事件检索与可复现任务工作区。 |
 
@@ -36,18 +36,20 @@
 
 ### 代表性开源贡献（不含自有项目）
 
+截至 **2026-09-01**，共有 **125 个已合并 PR**，覆盖 **57 个非自有仓库**；8 月 30 日以来新增 17 个。
+
 | 外部项目 | 已合并贡献 | 关注点 |
 |---|---:|---|
-| [PraisonAI](https://github.com/MervinPraison/PraisonAI/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 30 PR | 智能体运行时、可靠性、桌面端与跨平台支持 |
+| [PraisonAI](https://github.com/MervinPraison/PraisonAI/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 31 PR | 智能体运行时、可靠性、桌面端与跨平台支持 |
 | [VisActor / VChart](https://github.com/VisActor/VChart/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 9 PR | 构建修复与文档完整性 |
 | [ByteDance / g3](https://github.com/bytedance/g3/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 6 PR | Rust、跨平台命令、CI 与文档 |
 | [ByteDance / vArmor](https://github.com/bytedance/vArmor/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 5 PR | 策略正确性、并发与测试 |
-| [HKUDS / nanobot](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 4 PR | 安全边界、Windows 支持与会话恢复 |
+| [HKUDS / nanobot](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 5 PR | 安全边界、Windows 支持与会话恢复 |
+| [Web Infra / Rspress](https://github.com/web-infra-dev/rspress/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 4 PR | 文档站、智能体工具要求与链接完整性 |
 | [Volcengine / OpenViking](https://github.com/volcengine/OpenViking/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 3 PR | 记忆索引、补丁处理与 Go SDK |
-| [ruvnet / ruflo](https://github.com/ruvnet/ruflo/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 3 PR | 会话状态、Windows 启动与 MCP 工具选择 |
-| [Web Infra / Rslib](https://github.com/web-infra-dev/rslib/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 2 PR | Node 归档性能与文档维护 |
+| [LiveKit / Agents](https://github.com/livekit/agents/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 1 PR | 语音录制重采样尾部刷新 |
 
-<sub>统计核验于 2026-08-29；仅含已合并 PR，并排除 dajiaohuang 与 SagaSmithAI 名下仓库。</sub>
+<sub>统计核验于 2026-09-01；仅含已合并 PR，并排除 dajiaohuang 与 SagaSmithAI 名下仓库。</sub>
 
 ### Contribution Activity
 
@@ -68,7 +70,7 @@
 - **CVPR 2024 Ego-Exo4D Challenge** — Body Pose 赛道第三名，SJTU-SEIEE 队。
 
 <p align="center">
-  <sub>新加坡 · 持续公开构建 · <a href="https://dajiaohuang.github.io/">查看完整系统图 →</a></sub>
+  <sub>新加坡 · 持续公开构建 · <a href="https://dajiaohuang.github.io/">查看个人主页 →</a></sub>
 </p>
 
 <details>
@@ -86,8 +88,8 @@
 | System | The problem it takes seriously |
 |---|---|
 | [**SagaSmith**](https://github.com/SagaSmithAI) | AI-native TTRPG infrastructure where agents interpret, deterministic engines settle rules, and authoritative MCP services own state. |
-| [**RepoStew**](https://github.com/dajiaohuang/RepoStew_skills) | Repository stewardship as a durable loop: verify, audit, fix, test, submit, and maintain through review and CI. |
-| [**Archive & Apply**](https://github.com/dajiaohuang/Archive_and_Apply_Skill) | Source-first career and academic workflows that keep every polished claim traceable to evidence. |
+| [**RepoStew**](https://dajiaohuang.github.io/RepoStew_skills/) · [source](https://github.com/dajiaohuang/RepoStew_skills) | Repository stewardship as a durable loop: verify, audit, fix, test, submit, and maintain through review and CI. |
+| [**Archive & Apply**](https://dajiaohuang.github.io/Archive_and_Apply_Skill/) · [source](https://github.com/dajiaohuang/Archive_and_Apply_Skill) | Source-first career and academic workflows that keep every polished claim traceable to evidence. |
 | [**Evo Atlas**](https://dajiaohuang.github.io/evo/) | A static-first evidence atlas connecting geological time, fossil occurrences, phylogenetic hypotheses, and scientific uncertainty. |
 | [**Solar Atlas**](https://dajiaohuang.github.io/solar/) | Browser-native Solar System dynamics, small-body exploration, event search, and reproducible mission workspaces. |
 
@@ -105,18 +107,20 @@ source evidence     →  bounded inference   →  honest claim        →  usefu
 
 ### Selected open-source contributions (excluding owned projects)
 
+As of **2026-09-01**, this includes **125 merged PRs** across **57 externally owned repositories**, with 17 added since August 30.
+
 | External project | Merged work | Focus |
 |---|---:|---|
-| [PraisonAI](https://github.com/MervinPraison/PraisonAI/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 30 PRs | Agent runtime, reliability, desktop, and cross-platform support |
+| [PraisonAI](https://github.com/MervinPraison/PraisonAI/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 31 PRs | Agent runtime, reliability, desktop, and cross-platform support |
 | [VisActor / VChart](https://github.com/VisActor/VChart/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 9 PRs | Build fixes and documentation integrity |
 | [ByteDance / g3](https://github.com/bytedance/g3/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 6 PRs | Rust, cross-platform commands, CI, and docs |
 | [ByteDance / vArmor](https://github.com/bytedance/vArmor/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 5 PRs | Policy correctness, concurrency, and tests |
-| [HKUDS / nanobot](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 4 PRs | Security boundaries, Windows support, and session recovery |
+| [HKUDS / nanobot](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 5 PRs | Security boundaries, Windows support, and session recovery |
+| [Web Infra / Rspress](https://github.com/web-infra-dev/rspress/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 4 PRs | Documentation sites, agent tool requirements, and link integrity |
 | [Volcengine / OpenViking](https://github.com/volcengine/OpenViking/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 3 PRs | Memory indexing, patch handling, and Go SDK |
-| [ruvnet / ruflo](https://github.com/ruvnet/ruflo/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 3 PRs | Session state, Windows launch, and MCP tool selection |
-| [Web Infra / Rslib](https://github.com/web-infra-dev/rslib/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 2 PRs | Node archive performance and documentation |
+| [LiveKit / Agents](https://github.com/livekit/agents/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 1 PR | Voice recorder resampler tail flushing |
 
-<sub>Verified 2026-08-29; merged PRs only, excluding repositories owned by dajiaohuang and SagaSmithAI.</sub>
+<sub>Verified 2026-09-01; merged PRs only, excluding repositories owned by dajiaohuang and SagaSmithAI.</sub>
 
 ### Research roots
 
@@ -125,7 +129,7 @@ source evidence     →  bounded inference   →  honest claim        →  usefu
 - **CVPR 2024 Ego-Exo4D Challenge** — third place, Body Pose track, team SJTU-SEIEE.
 
 <p align="center">
-  <sub>Singapore · building in public · <a href="https://dajiaohuang.github.io/">see the full system map →</a></sub>
+  <sub>Singapore · building in public · <a href="https://dajiaohuang.github.io/">visit the personal site →</a></sub>
 </p>
 
 </details>
