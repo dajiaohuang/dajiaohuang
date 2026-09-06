@@ -1,3 +1,63 @@
+<details>
+<summary><strong>English version</strong></summary>
+
+<br>
+
+<p align="center">
+  <strong>Software Engineer Intern @ TikTok · MSc DSML @ NUS · SJTU alumnus</strong><br>
+  I build agent infrastructure, evidence-first workflows, and scientific interfaces.
+</p>
+
+### What I am building
+
+| System | The problem it takes seriously |
+|---|---|
+| [**SagaSmith**](https://github.com/SagaSmithAI) | AI-native TTRPG infrastructure where agents interpret, deterministic engines settle rules, and authoritative MCP services own state. |
+| [**RepoStew**](https://dajiaohuang.github.io/RepoStew_skills/) · [source](https://github.com/dajiaohuang/RepoStew_skills) | Repository stewardship as a durable loop: verify, audit, fix, test, submit, and maintain through review and CI. |
+| [**Archive & Apply**](https://dajiaohuang.github.io/Archive_and_Apply_Skill/) · [source](https://github.com/dajiaohuang/Archive_and_Apply_Skill) | Source-first career and academic workflows that keep every polished claim traceable to evidence. |
+| [**Evo Atlas**](https://dajiaohuang.github.io/evo/) | A static-first evidence atlas connecting geological time, fossil occurrences, phylogenetic hypotheses, and scientific uncertainty. |
+| [**Solar Atlas**](https://dajiaohuang.github.io/solar/) | Browser-native Solar System dynamics, small-body exploration, event search, and reproducible mission workspaces. |
+
+### How I tend to work
+
+```text
+explicit authority  →  reproducible state  →  focused validation  →  maintainable delivery
+source evidence     →  bounded inference   →  honest claim        →  useful interface
+```
+
+- **Agent systems:** MCP, tool calling, agentic RAG, retrieval, session/state design, safety gates.
+- **Scientific interfaces:** React, TypeScript, Three.js, D3, Leaflet, browser workers, static data platforms.
+- **Backend & ML:** Python, FastAPI, PyTorch, Transformers, vector retrieval, SQL, Docker/Kubernetes.
+- **Stewardship:** repository audits, GitHub workflows, testing, release evidence, documentation and live-site consistency.
+
+### Selected open-source contributions (excluding owned projects)
+
+As of **2026-09-01**, this includes **125 merged PRs** across **57 externally owned repositories**, with 17 added since August 30.
+
+| External project | Merged work | Focus |
+|---|---:|---|
+| [PraisonAI](https://github.com/MervinPraison/PraisonAI/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 31 PRs | Agent runtime, reliability, desktop, and cross-platform support |
+| [VisActor / VChart](https://github.com/VisActor/VChart/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 9 PRs | Build fixes and documentation integrity |
+| [ByteDance / g3](https://github.com/bytedance/g3/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 6 PRs | Rust, cross-platform commands, CI, and docs |
+| [ByteDance / vArmor](https://github.com/bytedance/vArmor/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 5 PRs | Policy correctness, concurrency, and tests |
+| [HKUDS / nanobot](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 5 PRs | Security boundaries, Windows support, and session recovery |
+| [Web Infra / Rspress](https://github.com/web-infra-dev/rspress/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 4 PRs | Documentation sites, agent tool requirements, and link integrity |
+| [Volcengine / OpenViking](https://github.com/volcengine/OpenViking/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 3 PRs | Memory indexing, patch handling, and Go SDK |
+| [LiveKit / Agents](https://github.com/livekit/agents/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 1 PR | Voice recorder resampler tail flushing |
+
+<sub>Verified 2026-09-01; merged PRs only, excluding repositories owned by dajiaohuang and SagaSmithAI.</sub>
+
+### Research roots
+
+- **CVPR 2024** — [Inter-X: Towards Versatile Human-Human Interaction Analysis](https://arxiv.org/abs/2312.16051), co-author.
+- **ECCV 2024** — [HIMO: Full-Body Human Interaction with Multiple Objects](https://arxiv.org/abs/2407.12371), co-author.
+- **CVPR 2024 Ego-Exo4D Challenge** — third place, Body Pose track, team SJTU-SEIEE.
+
+<p align="center">
+  <sub>Singapore · building in public · <a href="https://dajiaohuang.github.io/">visit the personal site →</a></sub>
+</p>
+
+</details>
 <p align="center">
   <strong>TikTok 软件工程实习生 · 新加坡国立大学 DSML 硕士 · 上海交通大学校友</strong><br>
   我构建智能体基础设施、证据优先工作流与科学交互界面。
@@ -72,64 +132,3 @@
 <p align="center">
   <sub>新加坡 · 持续公开构建 · <a href="https://dajiaohuang.github.io/">查看个人主页 →</a></sub>
 </p>
-
-<details>
-<summary><strong>English version</strong></summary>
-
-<br>
-
-<p align="center">
-  <strong>Software Engineer Intern @ TikTok · MSc DSML @ NUS · SJTU alumnus</strong><br>
-  I build agent infrastructure, evidence-first workflows, and scientific interfaces.
-</p>
-
-### What I am building
-
-| System | The problem it takes seriously |
-|---|---|
-| [**SagaSmith**](https://github.com/SagaSmithAI) | AI-native TTRPG infrastructure where agents interpret, deterministic engines settle rules, and authoritative MCP services own state. |
-| [**RepoStew**](https://dajiaohuang.github.io/RepoStew_skills/) · [source](https://github.com/dajiaohuang/RepoStew_skills) | Repository stewardship as a durable loop: verify, audit, fix, test, submit, and maintain through review and CI. |
-| [**Archive & Apply**](https://dajiaohuang.github.io/Archive_and_Apply_Skill/) · [source](https://github.com/dajiaohuang/Archive_and_Apply_Skill) | Source-first career and academic workflows that keep every polished claim traceable to evidence. |
-| [**Evo Atlas**](https://dajiaohuang.github.io/evo/) | A static-first evidence atlas connecting geological time, fossil occurrences, phylogenetic hypotheses, and scientific uncertainty. |
-| [**Solar Atlas**](https://dajiaohuang.github.io/solar/) | Browser-native Solar System dynamics, small-body exploration, event search, and reproducible mission workspaces. |
-
-### How I tend to work
-
-```text
-explicit authority  →  reproducible state  →  focused validation  →  maintainable delivery
-source evidence     →  bounded inference   →  honest claim        →  useful interface
-```
-
-- **Agent systems:** MCP, tool calling, agentic RAG, retrieval, session/state design, safety gates.
-- **Scientific interfaces:** React, TypeScript, Three.js, D3, Leaflet, browser workers, static data platforms.
-- **Backend & ML:** Python, FastAPI, PyTorch, Transformers, vector retrieval, SQL, Docker/Kubernetes.
-- **Stewardship:** repository audits, GitHub workflows, testing, release evidence, documentation and live-site consistency.
-
-### Selected open-source contributions (excluding owned projects)
-
-As of **2026-09-01**, this includes **125 merged PRs** across **57 externally owned repositories**, with 17 added since August 30.
-
-| External project | Merged work | Focus |
-|---|---:|---|
-| [PraisonAI](https://github.com/MervinPraison/PraisonAI/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 31 PRs | Agent runtime, reliability, desktop, and cross-platform support |
-| [VisActor / VChart](https://github.com/VisActor/VChart/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 9 PRs | Build fixes and documentation integrity |
-| [ByteDance / g3](https://github.com/bytedance/g3/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 6 PRs | Rust, cross-platform commands, CI, and docs |
-| [ByteDance / vArmor](https://github.com/bytedance/vArmor/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 5 PRs | Policy correctness, concurrency, and tests |
-| [HKUDS / nanobot](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 5 PRs | Security boundaries, Windows support, and session recovery |
-| [Web Infra / Rspress](https://github.com/web-infra-dev/rspress/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 4 PRs | Documentation sites, agent tool requirements, and link integrity |
-| [Volcengine / OpenViking](https://github.com/volcengine/OpenViking/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 3 PRs | Memory indexing, patch handling, and Go SDK |
-| [LiveKit / Agents](https://github.com/livekit/agents/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 1 PR | Voice recorder resampler tail flushing |
-
-<sub>Verified 2026-09-01; merged PRs only, excluding repositories owned by dajiaohuang and SagaSmithAI.</sub>
-
-### Research roots
-
-- **CVPR 2024** — [Inter-X: Towards Versatile Human-Human Interaction Analysis](https://arxiv.org/abs/2312.16051), co-author.
-- **ECCV 2024** — [HIMO: Full-Body Human Interaction with Multiple Objects](https://arxiv.org/abs/2407.12371), co-author.
-- **CVPR 2024 Ego-Exo4D Challenge** — third place, Body Pose track, team SJTU-SEIEE.
-
-<p align="center">
-  <sub>Singapore · building in public · <a href="https://dajiaohuang.github.io/">visit the personal site →</a></sub>
-</p>
-
-</details>
