@@ -32,7 +32,7 @@ source evidence     →  bounded inference   →  honest claim        →  usefu
 
 ### Selected open-source contributions (excluding owned projects)
 
-As of **2026-09-08**, this includes **164 merged PRs** across **82 externally owned repositories**, with 56 added since August 30.
+As of **2026-09-10**, this includes **179 merged PRs** across **89 externally owned repositories**, with 71 added since August 30.
 
 | External project | Merged work | Focus |
 |---|---:|---|
@@ -41,11 +41,12 @@ As of **2026-09-08**, this includes **164 merged PRs** across **82 externally ow
 | [ByteDance / g3](https://github.com/bytedance/g3/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 6 PRs | Rust, cross-platform commands, CI, and docs |
 | [ByteDance / vArmor](https://github.com/bytedance/vArmor/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 5 PRs | Policy correctness, concurrency, and tests |
 | [HKUDS / nanobot](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 6 PRs | Security boundaries, Windows support, and session recovery |
+| [Turso](https://github.com/tursodatabase/turso/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 5 PRs | SQLite compatibility, JSON semantics, and documentation |
 | [Web Infra / Rspress](https://github.com/web-infra-dev/rspress/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 4 PRs | Documentation sites, agent tool requirements, and link integrity |
 | [Volcengine / OpenViking](https://github.com/volcengine/OpenViking/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 3 PRs | Memory indexing, patch handling, and Go SDK |
-| [LiveKit / Agents](https://github.com/livekit/agents/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 1 PR | Voice recorder resampler tail flushing |
+| [Puppeteer](https://github.com/puppeteer/puppeteer/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 3 PRs | Windows build and release tooling |
 
-<sub>Verified 2026-09-08; merged PRs only, excluding repositories owned by dajiaohuang and SagaSmithAI.</sub>
+<sub>Verified 2026-09-10; merged PRs only, excluding repositories owned by dajiaohuang and SagaSmithAI.</sub>
 
 ### Research roots
 
@@ -96,7 +97,7 @@ As of **2026-09-08**, this includes **164 merged PRs** across **82 externally ow
 
 ### 代表性开源贡献（不含自有项目）
 
-截至 **2026-09-08**，共有 **164 个已合并 PR**，覆盖 **82 个非自有仓库**；8 月 30 日以来新增 56 个。
+截至 **2026-09-10**，共有 **179 个已合并 PR**，覆盖 **89 个非自有仓库**；8 月 30 日以来新增 71 个。
 
 | 外部项目 | 已合并贡献 | 关注点 |
 |---|---:|---|
@@ -105,11 +106,12 @@ As of **2026-09-08**, this includes **164 merged PRs** across **82 externally ow
 | [ByteDance / g3](https://github.com/bytedance/g3/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 6 PR | Rust、跨平台命令、CI 与文档 |
 | [ByteDance / vArmor](https://github.com/bytedance/vArmor/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 5 PR | 策略正确性、并发与测试 |
 | [HKUDS / nanobot](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 6 PR | 安全边界、Windows 支持与会话恢复 |
+| [Turso](https://github.com/tursodatabase/turso/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 5 PR | SQLite 兼容性、JSON 语义与文档 |
 | [Web Infra / Rspress](https://github.com/web-infra-dev/rspress/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 4 PR | 文档站、智能体工具要求与链接完整性 |
 | [Volcengine / OpenViking](https://github.com/volcengine/OpenViking/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 3 PR | 记忆索引、补丁处理与 Go SDK |
-| [LiveKit / Agents](https://github.com/livekit/agents/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 1 PR | 语音录制重采样尾部刷新 |
+| [Puppeteer](https://github.com/puppeteer/puppeteer/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 3 PR | Windows 构建与发布工具 |
 
-<sub>统计核验于 2026-09-08；仅含已合并 PR，并排除 dajiaohuang 与 SagaSmithAI 名下仓库。</sub>
+<sub>统计核验于 2026-09-10；仅含已合并 PR，并排除 dajiaohuang 与 SagaSmithAI 名下仓库。</sub>
 
 ### Contribution Activity
 
