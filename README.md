@@ -14,6 +14,7 @@
 |---|---|
 | [**SagaSmith**](https://github.com/SagaSmithAI) | AI-native TTRPG infrastructure where agents interpret, deterministic engines settle rules, and authoritative MCP services own state. |
 | [**RepoStew**](https://dajiaohuang.github.io/RepoStew_skills/) · [source](https://github.com/dajiaohuang/RepoStew_skills) | Repository stewardship as a durable loop via a portable Agent Skill: verify, audit, fix, test, submit, and maintain through review and CI. |
+| [**Clash of Tokens**](https://github.com/dajiaohuang/clash-of-tokens) | A local-first Go gateway that gives agents and applications one OpenAI-compatible front door to multiple providers, accounts, and sessions. |
 | [**Archive & Apply**](https://dajiaohuang.github.io/Archive_and_Apply_Skill/) · [source](https://github.com/dajiaohuang/Archive_and_Apply_Skill) | Source-first career and academic workflows that keep every polished claim traceable to evidence. |
 | [**Evo Atlas**](https://dajiaohuang.github.io/evo/) | A static-first evidence atlas connecting geological time, fossil occurrences, phylogenetic hypotheses, and scientific uncertainty. |
 | [**Solar Atlas**](https://dajiaohuang.github.io/solar/) | Browser-native Solar System dynamics, small-body exploration, event search, and reproducible mission workspaces. |
@@ -79,6 +80,7 @@ As of **2026-09-10**, this includes **179 merged PRs** across **89 externally ow
 |---|---|
 | [**SagaSmith**](https://github.com/SagaSmithAI) | AI 原生 TTRPG 基础设施：由智能体理解与主持，确定性引擎结算规则，权威 MCP 服务管理状态。 |
 | [**RepoStew**](https://dajiaohuang.github.io/RepoStew_skills/) · [源码](https://github.com/dajiaohuang/RepoStew_skills) | 用一个可移植的 Agent Skill 把仓库维护做成长期闭环：核验、审计、修复、测试、提交，并持续跟进评审与 CI。 |
+| [**Clash of Tokens**](https://github.com/dajiaohuang/clash-of-tokens) | 本地优先的 Go AI 网关，为智能体和应用在多个 provider、账号与会话之间提供统一的 OpenAI 兼容入口。 |
 | [**Archive & Apply**](https://dajiaohuang.github.io/Archive_and_Apply_Skill/) · [源码](https://github.com/dajiaohuang/Archive_and_Apply_Skill) | 以来源为先的职业与学术工作流，让每一条润色后的表述都能回溯到证据。 |
 | [**Evo Atlas**](https://dajiaohuang.github.io/evo/) | 静态优先的证据图谱，连接地质年代、化石记录、系统发育假说与科学不确定性。 |
 | [**Solar Atlas**](https://dajiaohuang.github.io/solar/) | 浏览器原生的太阳系动力学、小天体探索、事件检索与可复现任务工作区。 |
