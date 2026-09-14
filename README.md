@@ -33,7 +33,7 @@ source evidence     →  bounded inference   →  honest claim        →  usefu
 
 ### Selected open-source contributions (excluding owned projects)
 
-As of **2026-09-10**, this includes **179 merged PRs** across **89 externally owned repositories**, with 71 added since August 30.
+As of **2026-09-14**, this includes **236 merged PRs** across **124 externally owned repositories**, with 128 added since August 30.
 
 | External project | Merged work | Focus |
 |---|---:|---|
@@ -47,7 +47,7 @@ As of **2026-09-10**, this includes **179 merged PRs** across **89 externally ow
 | [Volcengine / OpenViking](https://github.com/volcengine/OpenViking/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 3 PRs | Memory indexing, patch handling, and Go SDK |
 | [Puppeteer](https://github.com/puppeteer/puppeteer/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 3 PRs | Windows build and release tooling |
 
-<sub>Verified 2026-09-10; merged PRs only, excluding repositories owned by dajiaohuang and SagaSmithAI.</sub>
+<sub>Verified 2026-09-14; merged PRs only, excluding repositories owned by dajiaohuang and SagaSmithAI.</sub>
 
 ### Research roots
 
@@ -99,7 +99,7 @@ As of **2026-09-10**, this includes **179 merged PRs** across **89 externally ow
 
 ### 代表性开源贡献（不含自有项目）
 
-截至 **2026-09-10**，共有 **179 个已合并 PR**，覆盖 **89 个非自有仓库**；8 月 30 日以来新增 71 个。
+截至 **2026-09-14**，共有 **236 个已合并 PR**，覆盖 **124 个非自有仓库**；8 月 30 日以来新增 128 个。
 
 | 外部项目 | 已合并贡献 | 关注点 |
 |---|---:|---|
@@ -113,7 +113,7 @@ As of **2026-09-10**, this includes **179 merged PRs** across **89 externally ow
 | [Volcengine / OpenViking](https://github.com/volcengine/OpenViking/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 3 PR | 记忆索引、补丁处理与 Go SDK |
 | [Puppeteer](https://github.com/puppeteer/puppeteer/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 3 PR | Windows 构建与发布工具 |
 
-<sub>统计核验于 2026-09-10；仅含已合并 PR，并排除 dajiaohuang 与 SagaSmithAI 名下仓库。</sub>
+<sub>统计核验于 2026-09-14；仅含已合并 PR，并排除 dajiaohuang 与 SagaSmithAI 名下仓库。</sub>
 
 ### Contribution Activity
 
