@@ -33,21 +33,21 @@ source evidence     →  bounded inference   →  honest claim        →  usefu
 
 ### Selected open-source contributions (excluding owned projects)
 
-As of **2026-09-23**, this includes **344 merged PRs** across **212 externally owned repositories**, with 235 added since August 30.
+As of **2026-09-29**, this includes **469 merged PRs** across **271 externally owned repositories**, with 361 added since August 30.
 
 | External project | Merged work | Focus |
 |---|---:|---|
-| [PraisonAI](https://github.com/MervinPraison/PraisonAI/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 35 PRs | Agent runtime, reliability, desktop, and cross-platform support |
+| [PraisonAI](https://github.com/MervinPraison/PraisonAI/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 37 PRs | Agent runtime, reliability, desktop, and cross-platform support |
 | [VisActor / VChart](https://github.com/VisActor/VChart/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 9 PRs | Build fixes and documentation integrity |
-| [ByteDance / g3](https://github.com/bytedance/g3/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 6 PRs | Rust, cross-platform commands, CI, and docs |
+| [ByteDance / g3](https://github.com/bytedance/g3/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 7 PRs | Rust, cross-platform commands, CI, and docs |
 | [ByteDance / vArmor](https://github.com/bytedance/vArmor/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 5 PRs | Policy correctness, concurrency, and tests |
 | [HKUDS / nanobot](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 7 PRs | Security boundaries, Windows support, and session recovery |
 | [Turso](https://github.com/tursodatabase/turso/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 6 PRs | SQLite compatibility, JSON semantics, and documentation |
 | [Web Infra / Rspress](https://github.com/web-infra-dev/rspress/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 4 PRs | Documentation sites, agent tool requirements, and link integrity |
-| [Volcengine / OpenViking](https://github.com/volcengine/OpenViking/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 3 PRs | Memory indexing, patch handling, and Go SDK |
+| [Volcengine / OpenViking](https://github.com/volcengine/OpenViking/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 4 PRs | Memory indexing, patch handling, and Go SDK |
 | [Puppeteer](https://github.com/puppeteer/puppeteer/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 4 PRs | Windows build and release tooling |
 
-<sub>Verified 2026-09-23; merged PRs only, excluding repositories owned by dajiaohuang and SagaSmithAI.</sub>
+<sub>Verified 2026-09-29; merged PRs only, excluding repositories owned by dajiaohuang and SagaSmithAI.</sub>
 
 ### Research roots
 
@@ -99,21 +99,21 @@ As of **2026-09-23**, this includes **344 merged PRs** across **212 externally o
 
 ### 代表性开源贡献（不含自有项目）
 
-截至 **2026-09-23**，共有 **344 个已合并 PR**，覆盖 **212 个非自有仓库**；8 月 30 日以来新增 235 个。
+截至 **2026-09-29**，共有 **469 个已合并 PR**，覆盖 **271 个非自有仓库**；8 月 30 日以来新增 361 个。
 
 | 外部项目 | 已合并贡献 | 关注点 |
 |---|---:|---|
-| [PraisonAI](https://github.com/MervinPraison/PraisonAI/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 35 PR | 智能体运行时、可靠性、桌面端与跨平台支持 |
+| [PraisonAI](https://github.com/MervinPraison/PraisonAI/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 37 PR | 智能体运行时、可靠性、桌面端与跨平台支持 |
 | [VisActor / VChart](https://github.com/VisActor/VChart/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 9 PR | 构建修复与文档完整性 |
-| [ByteDance / g3](https://github.com/bytedance/g3/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 6 PR | Rust、跨平台命令、CI 与文档 |
+| [ByteDance / g3](https://github.com/bytedance/g3/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 7 PR | Rust、跨平台命令、CI 与文档 |
 | [ByteDance / vArmor](https://github.com/bytedance/vArmor/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 5 PR | 策略正确性、并发与测试 |
 | [HKUDS / nanobot](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 7 PR | 安全边界、Windows 支持与会话恢复 |
 | [Turso](https://github.com/tursodatabase/turso/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 6 PR | SQLite 兼容性、JSON 语义与文档 |
 | [Web Infra / Rspress](https://github.com/web-infra-dev/rspress/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 4 PR | 文档站、智能体工具要求与链接完整性 |
-| [Volcengine / OpenViking](https://github.com/volcengine/OpenViking/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 3 PR | 记忆索引、补丁处理与 Go SDK |
+| [Volcengine / OpenViking](https://github.com/volcengine/OpenViking/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 4 PR | 记忆索引、补丁处理与 Go SDK |
 | [Puppeteer](https://github.com/puppeteer/puppeteer/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 4 PR | Windows 构建与发布工具 |
 
-<sub>统计核验于 2026-09-23；仅含已合并 PR，并排除 dajiaohuang 与 SagaSmithAI 名下仓库。</sub>
+<sub>统计核验于 2026-09-29；仅含已合并 PR，并排除 dajiaohuang 与 SagaSmithAI 名下仓库。</sub>
 
 ### Contribution Activity
 
