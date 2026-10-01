@@ -13,7 +13,7 @@
 | System | The problem it takes seriously |
 |---|---|
 | [**SagaSmith**](https://github.com/SagaSmithAI) | AI-native TTRPG infrastructure where agents interpret, deterministic engines settle rules, and authoritative MCP services own state. |
-| [**RepoStew**](https://dajiaohuang.github.io/RepoStew_skills/) · [source](https://github.com/dajiaohuang/RepoStew_skills) | Repository stewardship as a durable loop via a portable Agent Skill: verify, audit, fix, test, submit, and maintain through review and CI. |
+| [**RepoStew**](https://dajiaohuang.github.io/RepoStew_skills/) · [source](https://github.com/dajiaohuang/RepoStew_skills) | Portable repository stewardship with direct Markdown state: discover, handle issues, audit, fix and deliver PRs. Lightweight coordinators share one repository-leaf flow, with focused validation, authorized source release and complementary notification, new-issue and unfinished-work patrols—no extra runtime service. |
 | [**Clash of Tokens**](https://github.com/dajiaohuang/clash-of-tokens) | A local-first Go gateway that gives agents and applications one OpenAI-compatible front door to multiple providers, accounts, and sessions. |
 | [**Archive & Apply**](https://dajiaohuang.github.io/Archive_and_Apply_Skill/) · [source](https://github.com/dajiaohuang/Archive_and_Apply_Skill) | Source-first career and academic workflows that keep every polished claim traceable to evidence. |
 | [**Evo Atlas**](https://dajiaohuang.github.io/evo/) | A static-first evidence atlas connecting geological time, fossil occurrences, phylogenetic hypotheses, and scientific uncertainty. |
@@ -79,7 +79,7 @@ As of **2026-09-29**, this includes **469 merged PRs** across **271 externally o
 | 系统 | 它认真对待的问题 |
 |---|---|
 | [**SagaSmith**](https://github.com/SagaSmithAI) | AI 原生 TTRPG 基础设施：由智能体理解与主持，确定性引擎结算规则，权威 MCP 服务管理状态。 |
-| [**RepoStew**](https://dajiaohuang.github.io/RepoStew_skills/) · [源码](https://github.com/dajiaohuang/RepoStew_skills) | 用一个可移植的 Agent Skill 把仓库维护做成长期闭环：核验、审计、修复、测试、提交，并持续跟进评审与 CI。 |
+| [**RepoStew**](https://dajiaohuang.github.io/RepoStew_skills/) · [源码](https://github.com/dajiaohuang/RepoStew_skills) | 直接读写 Markdown 状态的可移植仓库维护 Skill：发现、处理 issue、审计、修复与 PR 交付。轻量协调者共用按库 leaf 流程，聚焦验证、授权释放源码，以通知、新 issue 和未完成事项巡检接续维护，无额外运行服务。 |
 | [**Clash of Tokens**](https://github.com/dajiaohuang/clash-of-tokens) | 本地优先的 Go AI 网关，为智能体和应用在多个 provider、账号与会话之间提供统一的 OpenAI 兼容入口。 |
 | [**Archive & Apply**](https://dajiaohuang.github.io/Archive_and_Apply_Skill/) · [源码](https://github.com/dajiaohuang/Archive_and_Apply_Skill) | 以来源为先的职业与学术工作流，让每一条润色后的表述都能回溯到证据。 |
 | [**Evo Atlas**](https://dajiaohuang.github.io/evo/) | 静态优先的证据图谱，连接地质年代、化石记录、系统发育假说与科学不确定性。 |
