@@ -17,8 +17,6 @@ Working on agent systems and scientific visualization.
 
 ### Selected contributions
 
-As of **2026-10-03 19:28 (UTC+8)**: **736 merged PRs** across **319 public external repositories**. Selected projects are ordered by project reach (GitHub stars) and merged contribution count, excluding owned and private repositories.
-
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) — Agent runtime, tool calls, session and storage reliability fixes (**59 merged PRs**)
 - [domokane/FinancePy](https://github.com/domokane/FinancePy) — Pricing stability, date handling, and cash-flow fixes (**52 merged PRs**)
 - [domoticz/domoticz](https://github.com/domoticz/domoticz) — Device protocol, hardware concurrency, and resource management fixes (**36 merged PRs**)
@@ -50,6 +48,8 @@ As of **2026-10-03 19:28 (UTC+8)**: **736 merged PRs** across **319 public exter
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) — Documentation link fixes and agent tool requirement updates (**4 merged PRs**)
 - [bytedance/vArmor](https://github.com/bytedance/vArmor) — Policy immutability, concurrent registries, and port-range fixes (**5 merged PRs**)
 
+<sub>PR counts as of 2026-10-03 19:28 (UTC+8); excludes owned and private repositories.</sub>
+
 ### Research
 
 - **CVPR 2024** — [Inter-X](https://arxiv.org/abs/2312.16051), co-author.
@@ -76,8 +76,6 @@ TikTok 软件工程实习生 · 新加坡国立大学 DSML 硕士 · 上海交�
 - [**Solar Atlas**](https://dajiaohuang.github.io/solar/)：轨道与小天体探索；不用于实际导航。
 
 ### 开源贡献选例
-
-截至 **2026-10-03 19:28（UTC+8）**，共 **736 个已合并 PR**，覆盖 **319 个公开外部仓库**。以下按项目影响力（星标规模）与已合并贡献数量综合排序，不含自有或私有仓库。
 
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) — 智能体运行时、工具调用、会话与存储可靠性修复（**59 个已合并 PR**）
 - [domokane/FinancePy](https://github.com/domokane/FinancePy) — 定价数值稳定性、日期处理与现金流修复（**52 个已合并 PR**）
@@ -109,6 +107,8 @@ TikTok 软件工程实习生 · 新加坡国立大学 DSML 硕士 · 上海交�
 - [bytedance/g3](https://github.com/bytedance/g3) — 配置解析、跨平台命令与 Rust CI 修复（**7 个已合并 PR**）
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) — 修复文档链接并更新智能体工具要求（**4 个已合并 PR**）
 - [bytedance/vArmor](https://github.com/bytedance/vArmor) — 策略不可变性、并发注册与端口范围修复（**5 个已合并 PR**）
+
+<sub>PR 数截至 2026-10-03 19:28（UTC+8）；不含自有或私有仓库。</sub>
 
 ### 研究
 
