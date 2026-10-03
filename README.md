@@ -11,7 +11,9 @@ Working on agent systems and scientific visualization.
 - [**RepoStew**](https://dajiaohuang.github.io/RepoStew_skills/): A workflow for discovering, fixing, and following up on open-source repository issues.
 - [**Clash of Tokens**](https://github.com/dajiaohuang/clash-of-tokens): A local Go AI gateway across providers and accounts.
 
-More work: [Evo Atlas](https://dajiaohuang.github.io/evo/) · [Solar Atlas](https://dajiaohuang.github.io/solar/) · [Archive & Apply](https://dajiaohuang.github.io/Archive_and_Apply_Skill/)
+- [**Archive & Apply**](https://dajiaohuang.github.io/Archive_and_Apply_Skill/): Turns experience records into traceable resumes, interview materials, and academic applications.
+- [**Evo Atlas**](https://dajiaohuang.github.io/evo/): Explore geological time, fossils, and evolutionary relationships with scientific uncertainty.
+- [**Solar Atlas**](https://dajiaohuang.github.io/solar/): Explore Solar System orbits and small bodies; not for operational navigation.
 
 ### Selected contributions
 
@@ -69,7 +71,9 @@ TikTok 软件工程实习生 · 新加坡国立大学 DSML 硕士 · 上海交�
 - [**RepoStew**](https://dajiaohuang.github.io/RepoStew_skills/)：用于发现、修复和持续跟进开源仓库问题的维护工作流。
 - [**Clash of Tokens**](https://github.com/dajiaohuang/clash-of-tokens)：统一多个服务商与账号的本地 Go AI 网关。
 
-更多作品：[Evo Atlas](https://dajiaohuang.github.io/evo/) · [Solar Atlas](https://dajiaohuang.github.io/solar/) · [Archive & Apply](https://dajiaohuang.github.io/Archive_and_Apply_Skill/)
+- [**Archive & Apply**](https://dajiaohuang.github.io/Archive_and_Apply_Skill/)：从经历资料生成可追溯的简历、面试和学术申请材料。
+- [**Evo Atlas**](https://dajiaohuang.github.io/evo/)：探索地质年代、化石记录与演化关系，呈现科学不确定性。
+- [**Solar Atlas**](https://dajiaohuang.github.io/solar/)：探索太阳系轨道与小天体；不用于实际导航。
 
 ### 开源贡献选例
 
