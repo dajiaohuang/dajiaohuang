@@ -1,3 +1,62 @@
+<details>
+<summary><strong>🌐 English — click to expand</strong></summary>
+
+Software Engineer Intern @ TikTok · MSc DSML @ NUS · SJTU alumnus
+
+Working on agent systems and scientific visualization.
+
+### Selected projects
+
+- [**SagaSmith**](https://github.com/SagaSmithAI): An Alpha-stage tabletop role-playing platform combining agent-led play with a rules engine.
+- [**RepoStew**](https://dajiaohuang.github.io/RepoStew_skills/): A workflow for discovering, fixing, and following up on open-source repository issues.
+- [**Clash of Tokens**](https://github.com/dajiaohuang/clash-of-tokens): A local Go AI gateway across providers and accounts.
+
+More work: [Evo Atlas](https://dajiaohuang.github.io/evo/) · [Solar Atlas](https://dajiaohuang.github.io/solar/) · [Archive & Apply](https://dajiaohuang.github.io/Archive_and_Apply_Skill/)
+
+### Selected contributions
+
+As of **2026-10-03 19:28 (UTC+8)**: **736 merged PRs** across **319 public external repositories**. Selected projects are ordered by project reach (GitHub stars) and merged contribution count, excluding owned and private repositories.
+
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **59 merged PRs**
+- [domokane/FinancePy](https://github.com/domokane/FinancePy/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **52 merged PRs**
+- [domoticz/domoticz](https://github.com/domoticz/domoticz/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **36 merged PRs**
+- [mvschwarz/openrig](https://github.com/mvschwarz/openrig/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **24 merged PRs**
+- [affaan-m/ECC](https://github.com/affaan-m/ECC/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **4 merged PRs**
+- [public-apis/public-apis](https://github.com/public-apis/public-apis/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **3 merged PRs**
+- [lateralblast/lunar](https://github.com/lateralblast/lunar/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **50 merged PRs**
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **7 merged PRs**
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **5 merged PRs**
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **4 merged PRs**
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **6 merged PRs**
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **3 merged PRs**
+- [JustVugg/colibri](https://github.com/JustVugg/colibri/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **4 merged PRs**
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **4 merged PRs**
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **1 merged PR**
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **3 merged PRs**
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **3 merged PRs**
+- [fmtlib/fmt](https://github.com/fmtlib/fmt/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **4 merged PRs**
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **2 merged PRs**
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **3 merged PRs**
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **1 merged PR**
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **2 merged PRs**
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **2 merged PRs**
+- [anomalyco/opencode](https://github.com/anomalyco/opencode/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **1 merged PR**
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **5 merged PRs**
+- [huggingface/transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **1 merged PR**
+- [VisActor/VChart](https://github.com/VisActor/VChart/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **9 merged PRs**
+- [bytedance/g3](https://github.com/bytedance/g3/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **7 merged PRs**
+- [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **4 merged PRs**
+- [bytedance/vArmor](https://github.com/bytedance/vArmor/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **5 merged PRs**
+
+[All merged external contributions](https://github.com/search?q=is%3Apr+is%3Amerged+is%3Apublic+author%3Adajiaohuang+-user%3Adajiaohuang+-org%3ASagaSmithAI&type=pullrequests)
+
+### Research
+
+- **CVPR 2024** — [Inter-X](https://arxiv.org/abs/2312.16051), co-author.
+- **ECCV 2024** — [HIMO](https://arxiv.org/abs/2407.12371), co-author.
+
+</details>
+
 # Wu Shuwen
 
 TikTok 软件工程实习生 · 新加坡国立大学 DSML 硕士 · 上海交通大学校友
@@ -16,58 +75,47 @@ TikTok 软件工程实习生 · 新加坡国立大学 DSML 硕士 · 上海交�
 
 ### 开源贡献选例
 
-- [PraisonAI](https://github.com/MervinPraison/PraisonAI/pull/5578)：防止读取失败后覆盖原有 JSON 文件
-- [VisActor / VChart](https://github.com/VisActor/VChart/pull/4652)：修复构建命令的失败传递
-- [ByteDance / g3](https://github.com/bytedance/g3/pull/1134)：将未实现的 Redis 存储操作改为返回错误
-- [ByteDance / vArmor](https://github.com/bytedance/vArmor/pull/369)：阻止删除不可变的代理配置
-- [nanobot](https://github.com/HKUDS/nanobot/pull/5379)：保留超长会话归档回退时的完整内容
-- [Turso](https://github.com/tursodatabase/turso/pull/8888)：修复 UPSERT 目标表别名解析
-- [Web Infra / Rspress](https://github.com/web-infra-dev/rspress/pull/3624)：更新文档中的智能体工具要求
-- [Volcengine / OpenViking](https://github.com/volcengine/OpenViking/pull/5410)：对齐语义处理测试与当前接口
-- [Puppeteer](https://github.com/puppeteer/puppeteer/pull/15435)：保留 browserURL 连接的路径前缀
+截至 **2026-10-03 19:28（UTC+8）**，共 **736 个已合并 PR**，覆盖 **319 个公开外部仓库**。以下按项目影响力（星标规模）与已合并贡献数量综合排序，不含自有或私有仓库。
 
-[全部已合并外部贡献](https://github.com/search?q=is%3Apr+author%3Adajiaohuang+is%3Amerged+-user%3Adajiaohuang+-org%3ASagaSmithAI&type=pullrequests)
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **59 个已合并 PR**
+- [domokane/FinancePy](https://github.com/domokane/FinancePy/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **52 个已合并 PR**
+- [domoticz/domoticz](https://github.com/domoticz/domoticz/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **36 个已合并 PR**
+- [mvschwarz/openrig](https://github.com/mvschwarz/openrig/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **24 个已合并 PR**
+- [affaan-m/ECC](https://github.com/affaan-m/ECC/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **4 个已合并 PR**
+- [public-apis/public-apis](https://github.com/public-apis/public-apis/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **3 个已合并 PR**
+- [lateralblast/lunar](https://github.com/lateralblast/lunar/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **50 个已合并 PR**
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **7 个已合并 PR**
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **5 个已合并 PR**
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **4 个已合并 PR**
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **6 个已合并 PR**
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **3 个已合并 PR**
+- [JustVugg/colibri](https://github.com/JustVugg/colibri/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **4 个已合并 PR**
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **4 个已合并 PR**
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **1 个已合并 PR**
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **3 个已合并 PR**
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **3 个已合并 PR**
+- [fmtlib/fmt](https://github.com/fmtlib/fmt/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **4 个已合并 PR**
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **2 个已合并 PR**
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **3 个已合并 PR**
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **1 个已合并 PR**
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **2 个已合并 PR**
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **2 个已合并 PR**
+- [anomalyco/opencode](https://github.com/anomalyco/opencode/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **1 个已合并 PR**
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **5 个已合并 PR**
+- [huggingface/transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **1 个已合并 PR**
+- [VisActor/VChart](https://github.com/VisActor/VChart/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **9 个已合并 PR**
+- [bytedance/g3](https://github.com/bytedance/g3/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **7 个已合并 PR**
+- [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **4 个已合并 PR**
+- [bytedance/vArmor](https://github.com/bytedance/vArmor/pulls?q=is%3Apr%20author%3Adajiaohuang%20is%3Amerged%20merged%3A%3C%3D2026-10-03T11%3A28%3A00Z) — **5 个已合并 PR**
+
+[全部已合并外部贡献](https://github.com/search?q=is%3Apr+is%3Amerged+is%3Apublic+author%3Adajiaohuang+-user%3Adajiaohuang+-org%3ASagaSmithAI&type=pullrequests)
 
 ### 研究
 
 - **CVPR 2024** — [Inter-X](https://arxiv.org/abs/2312.16051)，共同作者。
 - **ECCV 2024** — [HIMO](https://arxiv.org/abs/2407.12371)，共同作者。
 
-<details>
-<summary>English</summary>
 
-Software Engineer Intern @ TikTok · MSc DSML @ NUS · SJTU alumnus
-
-Working on agent systems and scientific visualization.
-
-### Selected projects
-
-- [**SagaSmith**](https://github.com/SagaSmithAI): An Alpha-stage tabletop role-playing platform combining agent-led play with a rules engine.
-- [**RepoStew**](https://dajiaohuang.github.io/RepoStew_skills/): A workflow for discovering, fixing, and following up on open-source repository issues.
-- [**Clash of Tokens**](https://github.com/dajiaohuang/clash-of-tokens): A local Go AI gateway across providers and accounts.
-
-More work: [Evo Atlas](https://dajiaohuang.github.io/evo/) · [Solar Atlas](https://dajiaohuang.github.io/solar/) · [Archive & Apply](https://dajiaohuang.github.io/Archive_and_Apply_Skill/)
-
-### Selected contributions
-
-- [PraisonAI](https://github.com/MervinPraison/PraisonAI/pull/5578): Prevent failed reads from overwriting existing JSON files
-- [VisActor / VChart](https://github.com/VisActor/VChart/pull/4652): Propagate build-command failures
-- [ByteDance / g3](https://github.com/bytedance/g3/pull/1134): Return errors for unsupported Redis storage operations
-- [ByteDance / vArmor](https://github.com/bytedance/vArmor/pull/369): Reject removal of immutable proxy configuration
-- [nanobot](https://github.com/HKUDS/nanobot/pull/5379): Preserve complete raw fallback content for oversized session archives
-- [Turso](https://github.com/tursodatabase/turso/pull/8888): Fix UPSERT target-alias resolution
-- [Web Infra / Rspress](https://github.com/web-infra-dev/rspress/pull/3624): Align documented agent tool requirements
-- [Volcengine / OpenViking](https://github.com/volcengine/OpenViking/pull/5410): Align semantic processing tests with current APIs
-- [Puppeteer](https://github.com/puppeteer/puppeteer/pull/15435): Preserve browserURL path prefixes
-
-[All merged external contributions](https://github.com/search?q=is%3Apr+author%3Adajiaohuang+is%3Amerged+-user%3Adajiaohuang+-org%3ASagaSmithAI&type=pullrequests)
-
-### Research
-
-- **CVPR 2024** — [Inter-X](https://arxiv.org/abs/2312.16051), co-author.
-- **ECCV 2024** — [HIMO](https://arxiv.org/abs/2407.12371), co-author.
-
-</details>
 
 ### GitHub 账号评分 / Account stats
 
