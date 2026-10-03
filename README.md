@@ -1,119 +1,82 @@
+# Wu Shuwen
+
+TikTok 软件工程实习生 · 新加坡国立大学 DSML 硕士 · 上海交通大学校友
+
+关注智能体系统与科学可视化。
+
+[个人主页](https://dajiaohuang.github.io/) · [邮箱](mailto:mikewushuwen@gmail.com) · [LinkedIn](https://www.linkedin.com/in/wu-shuwen-ab3977259)
+
+### 代表项目
+
+- [**SagaSmith**](https://github.com/SagaSmithAI)：结合智能体主持与规则引擎的桌面角色扮演游戏平台，目前处于 Alpha 阶段。
+- [**RepoStew**](https://dajiaohuang.github.io/RepoStew_skills/)：用于发现、修复和持续跟进开源仓库问题的维护工作流。
+- [**Clash of Tokens**](https://github.com/dajiaohuang/clash-of-tokens)：统一多个服务商与账号的本地 Go AI 网关。
+
+更多作品：[Evo Atlas](https://dajiaohuang.github.io/evo/) · [Solar Atlas](https://dajiaohuang.github.io/solar/) · [Archive & Apply](https://dajiaohuang.github.io/Archive_and_Apply_Skill/)
+
+### 开源贡献选例
+
+- [PraisonAI](https://github.com/MervinPraison/PraisonAI/pull/5578)：防止读取失败后覆盖原有 JSON 文件
+- [VisActor / VChart](https://github.com/VisActor/VChart/pull/4652)：修复构建命令的失败传递
+- [ByteDance / g3](https://github.com/bytedance/g3/pull/1134)：将未实现的 Redis 存储操作改为返回错误
+- [ByteDance / vArmor](https://github.com/bytedance/vArmor/pull/369)：阻止删除不可变的代理配置
+- [nanobot](https://github.com/HKUDS/nanobot/pull/5379)：保留超长会话归档回退时的完整内容
+- [Turso](https://github.com/tursodatabase/turso/pull/8888)：修复 UPSERT 目标表别名解析
+- [Web Infra / Rspress](https://github.com/web-infra-dev/rspress/pull/3624)：更新文档中的智能体工具要求
+- [Volcengine / OpenViking](https://github.com/volcengine/OpenViking/pull/5410)：对齐语义处理测试与当前接口
+- [Puppeteer](https://github.com/puppeteer/puppeteer/pull/15435)：保留 browserURL 连接的路径前缀
+
+[全部已合并外部贡献](https://github.com/search?q=is%3Apr+author%3Adajiaohuang+is%3Amerged+-user%3Adajiaohuang+-org%3ASagaSmithAI&type=pullrequests)
+
+### 研究
+
+- **CVPR 2024** — [Inter-X](https://arxiv.org/abs/2312.16051)，共同作者。
+- **ECCV 2024** — [HIMO](https://arxiv.org/abs/2407.12371)，共同作者。
+
 <details>
-<summary><strong>English version</strong></summary>
+<summary>English</summary>
 
-<br>
+Software Engineer Intern @ TikTok · MSc DSML @ NUS · SJTU alumnus
 
-<p align="center">
-  <strong>Software Engineer Intern @ TikTok · MSc DSML @ NUS · SJTU alumnus</strong><br>
-  I build agent infrastructure, evidence-first workflows, and scientific interfaces.
-</p>
+Working on agent systems and scientific visualization.
 
-### What I am building
+### Selected projects
 
-| System | The problem it takes seriously |
-|---|---|
-| [**SagaSmith**](https://github.com/SagaSmithAI) | AI-native TTRPG infrastructure where agents interpret, deterministic engines settle rules, and authoritative MCP services own state. |
-| [**RepoStew**](https://dajiaohuang.github.io/RepoStew_skills/) · [source](https://github.com/dajiaohuang/RepoStew_skills) | Portable repository stewardship with direct Markdown state: discover, handle issues, audit, fix and deliver PRs. Lightweight coordinators share one repository-leaf flow, with focused validation, authorized source release and complementary notification, new-issue and unfinished-work patrols—no extra runtime service. |
-| [**Clash of Tokens**](https://github.com/dajiaohuang/clash-of-tokens) | A local-first Go gateway that gives agents and applications one OpenAI-compatible front door to multiple providers, accounts, and sessions. |
-| [**Archive & Apply**](https://dajiaohuang.github.io/Archive_and_Apply_Skill/) · [source](https://github.com/dajiaohuang/Archive_and_Apply_Skill) | Source-first career and academic workflows that keep every polished claim traceable to evidence. |
-| [**Evo Atlas**](https://dajiaohuang.github.io/evo/) | A static-first evidence atlas connecting geological time, fossil occurrences, phylogenetic hypotheses, and scientific uncertainty. |
-| [**Solar Atlas**](https://dajiaohuang.github.io/solar/) | Browser-native Solar System dynamics, small-body exploration, event search, and reproducible mission workspaces. |
+- [**SagaSmith**](https://github.com/SagaSmithAI): An Alpha-stage tabletop role-playing platform combining agent-led play with a rules engine.
+- [**RepoStew**](https://dajiaohuang.github.io/RepoStew_skills/): A workflow for discovering, fixing, and following up on open-source repository issues.
+- [**Clash of Tokens**](https://github.com/dajiaohuang/clash-of-tokens): A local Go AI gateway across providers and accounts.
 
-### How I tend to work
+More work: [Evo Atlas](https://dajiaohuang.github.io/evo/) · [Solar Atlas](https://dajiaohuang.github.io/solar/) · [Archive & Apply](https://dajiaohuang.github.io/Archive_and_Apply_Skill/)
 
-```text
-explicit authority  →  reproducible state  →  focused validation  →  maintainable delivery
-source evidence     →  bounded inference   →  honest claim        →  useful interface
-```
+### Selected contributions
 
-- **Agent systems:** MCP, tool calling, agentic RAG, retrieval, session/state design, safety gates.
-- **Scientific interfaces:** React, TypeScript, Three.js, D3, Leaflet, browser workers, static data platforms.
-- **Backend & ML:** Python, FastAPI, PyTorch, Transformers, vector retrieval, SQL, Docker/Kubernetes.
-- **Stewardship:** repository audits, GitHub workflows, testing, release evidence, documentation and live-site consistency.
+- [PraisonAI](https://github.com/MervinPraison/PraisonAI/pull/5578): Prevent failed reads from overwriting existing JSON files
+- [VisActor / VChart](https://github.com/VisActor/VChart/pull/4652): Propagate build-command failures
+- [ByteDance / g3](https://github.com/bytedance/g3/pull/1134): Return errors for unsupported Redis storage operations
+- [ByteDance / vArmor](https://github.com/bytedance/vArmor/pull/369): Reject removal of immutable proxy configuration
+- [nanobot](https://github.com/HKUDS/nanobot/pull/5379): Preserve complete raw fallback content for oversized session archives
+- [Turso](https://github.com/tursodatabase/turso/pull/8888): Fix UPSERT target-alias resolution
+- [Web Infra / Rspress](https://github.com/web-infra-dev/rspress/pull/3624): Align documented agent tool requirements
+- [Volcengine / OpenViking](https://github.com/volcengine/OpenViking/pull/5410): Align semantic processing tests with current APIs
+- [Puppeteer](https://github.com/puppeteer/puppeteer/pull/15435): Preserve browserURL path prefixes
 
-### Selected open-source contributions (excluding owned projects)
+[All merged external contributions](https://github.com/search?q=is%3Apr+author%3Adajiaohuang+is%3Amerged+-user%3Adajiaohuang+-org%3ASagaSmithAI&type=pullrequests)
 
-As of **2026-09-29**, this includes **469 merged PRs** across **271 externally owned repositories**, with 361 added since August 30.
+### Research
 
-| External project | Merged work | Focus |
-|---|---:|---|
-| [PraisonAI](https://github.com/MervinPraison/PraisonAI/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 37 PRs | Agent runtime, reliability, desktop, and cross-platform support |
-| [VisActor / VChart](https://github.com/VisActor/VChart/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 9 PRs | Build fixes and documentation integrity |
-| [ByteDance / g3](https://github.com/bytedance/g3/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 7 PRs | Rust, cross-platform commands, CI, and docs |
-| [ByteDance / vArmor](https://github.com/bytedance/vArmor/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 5 PRs | Policy correctness, concurrency, and tests |
-| [HKUDS / nanobot](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 7 PRs | Security boundaries, Windows support, and session recovery |
-| [Turso](https://github.com/tursodatabase/turso/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 6 PRs | SQLite compatibility, JSON semantics, and documentation |
-| [Web Infra / Rspress](https://github.com/web-infra-dev/rspress/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 4 PRs | Documentation sites, agent tool requirements, and link integrity |
-| [Volcengine / OpenViking](https://github.com/volcengine/OpenViking/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 4 PRs | Memory indexing, patch handling, and Go SDK |
-| [Puppeteer](https://github.com/puppeteer/puppeteer/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 4 PRs | Windows build and release tooling |
-
-<sub>Verified 2026-09-29; merged PRs only, excluding repositories owned by dajiaohuang and SagaSmithAI.</sub>
-
-### Research roots
-
-- **CVPR 2024** — [Inter-X: Towards Versatile Human-Human Interaction Analysis](https://arxiv.org/abs/2312.16051), co-author.
-- **ECCV 2024** — [HIMO: Full-Body Human Interaction with Multiple Objects](https://arxiv.org/abs/2407.12371), co-author.
-- **CVPR 2024 Ego-Exo4D Challenge** — third place, Body Pose track, team SJTU-SEIEE.
-
-<p align="center">
-  <sub>Singapore · building in public · <a href="https://dajiaohuang.github.io/">visit the personal site →</a></sub>
-</p>
+- **CVPR 2024** — [Inter-X](https://arxiv.org/abs/2312.16051), co-author.
+- **ECCV 2024** — [HIMO](https://arxiv.org/abs/2407.12371), co-author.
 
 </details>
-<p align="center">
-  <strong>TikTok 软件工程实习生 · 新加坡国立大学 DSML 硕士 · 上海交通大学校友</strong><br>
-  我构建智能体基础设施、证据优先工作流与科学交互界面。
-</p>
 
-<p align="center">
-  <a href="https://dajiaohuang.github.io/"><strong>个人网站</strong></a> ·
-  <a href="https://github.com/SagaSmithAI">SagaSmith</a> ·
-  <a href="mailto:mikewushuwen@gmail.com">邮箱</a> ·
-  <a href="https://www.linkedin.com/in/wu-shuwen-ab3977259">LinkedIn</a>
-</p>
+### GitHub 账号评分 / Account stats
 
----
+<a href="https://github.com/dajiaohuang"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dajiaohuang&amp;show_icons=true&amp;hide_title=true&amp;disable_animations=true&amp;theme=github_dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=dajiaohuang&amp;show_icons=true&amp;hide_title=true&amp;disable_animations=true" alt="Wu Shuwen 的 GitHub 账号统计与等级评分" width="467">
+</picture></a>
 
-### 我正在构建
-
-| 系统 | 它认真对待的问题 |
-|---|---|
-| [**SagaSmith**](https://github.com/SagaSmithAI) | AI 原生 TTRPG 基础设施：由智能体理解与主持，确定性引擎结算规则，权威 MCP 服务管理状态。 |
-| [**RepoStew**](https://dajiaohuang.github.io/RepoStew_skills/) · [源码](https://github.com/dajiaohuang/RepoStew_skills) | 直接读写 Markdown 状态的可移植仓库维护 Skill：发现、处理 issue、审计、修复与 PR 交付。轻量协调者共用按库 leaf 流程，聚焦验证、授权释放源码，以通知、新 issue 和未完成事项巡检接续维护，无额外运行服务。 |
-| [**Clash of Tokens**](https://github.com/dajiaohuang/clash-of-tokens) | 本地优先的 Go AI 网关，为智能体和应用在多个 provider、账号与会话之间提供统一的 OpenAI 兼容入口。 |
-| [**Archive & Apply**](https://dajiaohuang.github.io/Archive_and_Apply_Skill/) · [源码](https://github.com/dajiaohuang/Archive_and_Apply_Skill) | 以来源为先的职业与学术工作流，让每一条润色后的表述都能回溯到证据。 |
-| [**Evo Atlas**](https://dajiaohuang.github.io/evo/) | 静态优先的证据图谱，连接地质年代、化石记录、系统发育假说与科学不确定性。 |
-| [**Solar Atlas**](https://dajiaohuang.github.io/solar/) | 浏览器原生的太阳系动力学、小天体探索、事件检索与可复现任务工作区。 |
-
-### 我的工作方法
-
-```text
-明确权限  →  可复现状态  →  聚焦验证  →  可维护交付
-来源证据  →  有界推断    →  诚实表述  →  有用界面
-```
-
-- **智能体系统：** MCP、工具调用、智能体 RAG、检索、会话与状态设计、安全门控。
-- **科学交互：** React、TypeScript、Three.js、D3、Leaflet、浏览器 Worker、静态数据平台。
-- **后端与机器学习：** Python、FastAPI、PyTorch、Transformers、向量检索、SQL、Docker/Kubernetes。
-- **仓库维护：** 仓库审计、GitHub 工作流、测试、发布证据、文档与线上版本一致性。
-
-### 代表性开源贡献（不含自有项目）
-
-截至 **2026-09-29**，共有 **469 个已合并 PR**，覆盖 **271 个非自有仓库**；8 月 30 日以来新增 361 个。
-
-| 外部项目 | 已合并贡献 | 关注点 |
-|---|---:|---|
-| [PraisonAI](https://github.com/MervinPraison/PraisonAI/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 37 PR | 智能体运行时、可靠性、桌面端与跨平台支持 |
-| [VisActor / VChart](https://github.com/VisActor/VChart/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 9 PR | 构建修复与文档完整性 |
-| [ByteDance / g3](https://github.com/bytedance/g3/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 7 PR | Rust、跨平台命令、CI 与文档 |
-| [ByteDance / vArmor](https://github.com/bytedance/vArmor/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 5 PR | 策略正确性、并发与测试 |
-| [HKUDS / nanobot](https://github.com/HKUDS/nanobot/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 7 PR | 安全边界、Windows 支持与会话恢复 |
-| [Turso](https://github.com/tursodatabase/turso/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 6 PR | SQLite 兼容性、JSON 语义与文档 |
-| [Web Infra / Rspress](https://github.com/web-infra-dev/rspress/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 4 PR | 文档站、智能体工具要求与链接完整性 |
-| [Volcengine / OpenViking](https://github.com/volcengine/OpenViking/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 4 PR | 记忆索引、补丁处理与 Go SDK |
-| [Puppeteer](https://github.com/puppeteer/puppeteer/pulls?q=is%3Apr+author%3Adajiaohuang+is%3Amerged) | 4 PR | Windows 构建与发布工具 |
-
-<sub>统计核验于 2026-09-29；仅含已合并 PR，并排除 dajiaohuang 与 SagaSmithAI 名下仓库。</sub>
+<sub>GitHub Readme Stats 第三方评分 · Third-party rank</sub>
 
 ### Contribution Activity
 
@@ -126,13 +89,3 @@ As of **2026-09-29**, this includes **469 merged PRs** across **271 externally o
 </p>
 
 <p align="center"><sub>每日自动刷新 · Daily refresh</sub></p>
-
-### 研究经历
-
-- **CVPR 2024** — [Inter-X: Towards Versatile Human-Human Interaction Analysis](https://arxiv.org/abs/2312.16051)，共同作者。
-- **ECCV 2024** — [HIMO: Full-Body Human Interaction with Multiple Objects](https://arxiv.org/abs/2407.12371)，共同作者。
-- **CVPR 2024 Ego-Exo4D Challenge** — Body Pose 赛道第三名，SJTU-SEIEE 队。
-
-<p align="center">
-  <sub>新加坡 · 持续公开构建 · <a href="https://dajiaohuang.github.io/">查看个人主页 →</a></sub>
-</p>
