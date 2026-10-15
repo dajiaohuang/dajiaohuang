@@ -8,7 +8,7 @@ Working on agent systems and scientific visualization.
 ### Selected projects
 
 - [**SagaSmith**](https://sagasmithai.github.io/): Agent-led TTRPG platform with a rules engine (Alpha).
-- [**RepoStew**](https://dajiaohuang.github.io/RepoStew_skills/): Portable multi-agent Skill for repository audits, contribution follow-up, and authorized maintenance, with Markdown state.
+- [**RepoStew**](https://dajiaohuang.github.io/repostew/): Portable multi-agent Skill for repository audits, contribution follow-up, and authorized maintenance, with Markdown state.
 - [**Clash of Tokens**](https://github.com/dajiaohuang/clash-of-tokens): Local Go AI gateway across providers and accounts.
 - [**Archive & Apply**](https://dajiaohuang.github.io/Archive_and_Apply_Skill/): Traceable resumes, interview materials, and applications.
 - [**Evo Atlas**](https://dajiaohuang.github.io/evo/): Geological time, fossils, and evolution with scientific uncertainty.
@@ -71,7 +71,7 @@ TikTok 软件工程实习生 · 新加坡国立大学 DSML 硕士 · 上海交�
 ### 代表项目
 
 - [**SagaSmith**](https://sagasmithai.github.io/)：智能体主持与规则引擎的 TTRPG 平台（Alpha）。
-- [**RepoStew**](https://dajiaohuang.github.io/RepoStew_skills/)：面向多 agent harness 的可移植仓库维护 Skill，以 Markdown 状态接续审计、投稿跟进与授权维护。
+- [**RepoStew**](https://dajiaohuang.github.io/repostew/)：面向多 agent harness 的可移植仓库维护 Skill，以 Markdown 状态接续审计、投稿跟进与授权维护。
 - [**Clash of Tokens**](https://github.com/dajiaohuang/clash-of-tokens)：多服务商、多账号的本地 Go AI 网关。
 - [**Archive & Apply**](https://dajiaohuang.github.io/Archive_and_Apply_Skill/)：可追溯的简历、面试与申请材料工作流。
 - [**Evo Atlas**](https://dajiaohuang.github.io/evo/)：地质年代、化石与演化图谱，呈现科学不确定性。
