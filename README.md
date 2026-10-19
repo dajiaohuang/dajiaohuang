@@ -20,14 +20,14 @@ Working on agent systems and scientific visualization.
 - [domokane/FinancePy](https://github.com/domokane/FinancePy) — Pricing stability, date handling, and cash-flow fixes (**57 merged PRs**)
 - [doocs/leetcode](https://github.com/doocs/leetcode) — Algorithm boundaries, C++ overflow, and SQL / Pandas solution fixes (**20 merged PRs**)
 - [domoticz/domoticz](https://github.com/domoticz/domoticz) — Device protocol, hardware concurrency, and resource management fixes (**36 merged PRs**)
-- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) — Session recovery, process lifecycle, and runtime isolation fixes (**25 merged PRs**)
+- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) — Session recovery, process lifecycle, and runtime isolation fixes (**26 merged PRs**)
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — Command aliases, test isolation, and CI validation fixes (**4 merged PRs**)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) — API entries and duplicate-link checker fixes (**3 merged PRs**)
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) — Windows execution, API authentication, and session archive fixes (**7 merged PRs**)
 - [lateralblast/lunar](https://github.com/lateralblast/lunar) — System and cloud audit checks and CLI behavior fixes (**50 merged PRs**)
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) — Browser connection, temporary profile cleanup, and Windows build fixes (**5 merged PRs**)
-- [revive-lint/revive](https://github.com/revive-lint/revive) — Rule configuration reset, syntax checks, and SARIF output fixes (**12 merged PRs**)
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) — Tool selection, Windows launch, and session state fixes (**4 merged PRs**)
+- [revive-lint/revive](https://github.com/revive-lint/revive) — Rule configuration reset, syntax checks, and SARIF output fixes (**15 merged PRs**)
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) — Tool selection, Windows launch, and session state fixes (**7 merged PRs**)
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) — SQL alias, JSON NULL, and SQLite compatibility fixes (**6 merged PRs**)
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) — Windows sandbox execution fixes and extension documentation updates (**3 merged PRs**)
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) — Inference cancellation fixes and Windows test compatibility (**4 merged PRs**)
@@ -35,7 +35,7 @@ Working on agent systems and scientific visualization.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) — Memory indexing, patch handling, and Windows Go SDK fixes (**4 merged PRs**)
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) — Desktop launch, OIDC logout, and saved-search execution fixes (**4 merged PRs**)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) — Added a React learning resource (**1 merged PR**)
-- [revolist/revogrid](https://github.com/revolist/revogrid) — Sorting, column sizing, CSV export, and plugin cleanup fixes (**10 merged PRs**)
+- [revolist/revogrid](https://github.com/revolist/revogrid) — Sorting, column sizing, CSV export, and plugin cleanup fixes (**11 merged PRs**)
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) — Documentation link fixes and CLI catalog completion (**3 merged PRs**)
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Configuration coercion fixes, Windows tests, and routing documentation (**3 merged PRs**)
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) — Tuple formatting, documentation encoding, and format-reference fixes (**4 merged PRs**)
@@ -51,7 +51,7 @@ Working on agent systems and scientific visualization.
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) — Documentation link fixes and agent tool requirement updates (**4 merged PRs**)
 - [bytedance/vArmor](https://github.com/bytedance/vArmor) — Policy immutability, concurrent registries, and port-range fixes (**5 merged PRs**)
 
-<sub>As of 2026-10-19 16:22 (UTC+8): 1205 merged PRs across 527 public external repositories; excludes owned and private repositories.</sub>
+<sub>As of 2026-10-19: 5,217 authored PRs (2,054 merged); 1,205 merged PRs across 527 public external repositories, excluding owned and private repositories.</sub>
 
 ### Research
 
@@ -83,14 +83,14 @@ TikTok 软件工程实习生 · 新加坡国立大学 DSML 硕士 · 上海交�
 - [domokane/FinancePy](https://github.com/domokane/FinancePy) — 定价数值稳定性、日期处理与现金流修复（**57 个已合并 PR**）
 - [doocs/leetcode](https://github.com/doocs/leetcode) — 算法边界、C++ 溢出与 SQL / Pandas 解法修复（**20 个已合并 PR**）
 - [domoticz/domoticz](https://github.com/domoticz/domoticz) — 设备协议、硬件并发与资源管理修复（**36 个已合并 PR**）
-- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) — 会话恢复、进程生命周期与运行环境隔离修复（**25 个已合并 PR**）
+- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) — 会话恢复、进程生命周期与运行环境隔离修复（**26 个已合并 PR**）
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — 命令别名、测试隔离与 CI 校验修复（**4 个已合并 PR**）
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) — 补充 API 条目并修复重复链接检查（**3 个已合并 PR**）
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) — Windows 执行、接口鉴权与会话归档修复（**7 个已合并 PR**）
 - [lateralblast/lunar](https://github.com/lateralblast/lunar) — 系统与云资源审计、命令行行为修复（**50 个已合并 PR**）
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) — 浏览器连接、临时资源清理与 Windows 构建修复（**5 个已合并 PR**）
-- [revive-lint/revive](https://github.com/revive-lint/revive) — 规则配置重置、语法检查与 SARIF 输出修复（**12 个已合并 PR**）
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) — 工具选择、Windows 启动与会话状态修复（**4 个已合并 PR**）
+- [revive-lint/revive](https://github.com/revive-lint/revive) — 规则配置重置、语法检查与 SARIF 输出修复（**15 个已合并 PR**）
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) — 工具选择、Windows 启动与会话状态修复（**7 个已合并 PR**）
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) — SQL 别名、JSON 空值与 SQLite 兼容性修复（**6 个已合并 PR**）
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) — Windows 沙箱执行修复与扩展文档更新（**3 个已合并 PR**）
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) — 推理取消处理修复与 Windows 测试适配（**4 个已合并 PR**）
@@ -98,7 +98,7 @@ TikTok 软件工程实习生 · 新加坡国立大学 DSML 硕士 · 上海交�
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) — 记忆索引、补丁处理与 Windows Go SDK 修复（**4 个已合并 PR**）
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) — 桌面启动、OIDC 登出与保存搜索执行修复（**4 个已合并 PR**）
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) — 补充 React 学习资源（**1 个已合并 PR**）
-- [revolist/revogrid](https://github.com/revolist/revogrid) — 排序、列宽测量、CSV 导出与插件清理修复（**10 个已合并 PR**）
+- [revolist/revogrid](https://github.com/revolist/revogrid) — 排序、列宽测量、CSV 导出与插件清理修复（**11 个已合并 PR**）
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) — 修复文档链接并完善 CLI 目录（**3 个已合并 PR**）
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — 配置转换修复、Windows 测试与路由文档更新（**3 个已合并 PR**）
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) — 元组格式化、文档编码与格式说明修复（**4 个已合并 PR**）
@@ -114,7 +114,7 @@ TikTok 软件工程实习生 · 新加坡国立大学 DSML 硕士 · 上海交�
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) — 修复文档链接并更新智能体工具要求（**4 个已合并 PR**）
 - [bytedance/vArmor](https://github.com/bytedance/vArmor) — 策略不可变性、并发注册与端口范围修复（**5 个已合并 PR**）
 
-<sub>截至 2026-10-19 16:22（UTC+8）：1205 个已合并 PR，527 个公开外部仓库；不含自有或私有仓库。</sub>
+<sub>截至 2026-10-19：GitHub 上共 5,217 个 authored PR（2,054 个已合并）；其中公开外部仓库有 1,205 个已合并 PR，覆盖 527 个仓库（不含自有和私有仓库）。</sub>
 
 ### 研究
 
