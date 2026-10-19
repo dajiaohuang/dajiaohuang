@@ -51,7 +51,7 @@ Working on agent systems and scientific visualization.
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) — Documentation link fixes and agent tool requirement updates (**4 merged PRs**)
 - [bytedance/vArmor](https://github.com/bytedance/vArmor) — Policy immutability, concurrent registries, and port-range fixes (**5 merged PRs**)
 
-<sub>As of 2026-10-09 01:43 (UTC+8): 947 merged PRs across 382 public external repositories; excludes owned and private repositories.</sub>
+<sub>As of 2026-10-19 16:22 (UTC+8): 1205 merged PRs across 527 public external repositories; excludes owned and private repositories.</sub>
 
 ### Research
 
@@ -114,7 +114,7 @@ TikTok 软件工程实习生 · 新加坡国立大学 DSML 硕士 · 上海交�
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) — 修复文档链接并更新智能体工具要求（**4 个已合并 PR**）
 - [bytedance/vArmor](https://github.com/bytedance/vArmor) — 策略不可变性、并发注册与端口范围修复（**5 个已合并 PR**）
 
-<sub>截至 2026-10-09 01:43（UTC+8）：947 个已合并 PR，382 个公开外部仓库；不含自有或私有仓库。</sub>
+<sub>截至 2026-10-19 16:22（UTC+8）：1205 个已合并 PR，527 个公开外部仓库；不含自有或私有仓库。</sub>
 
 ### 研究
 
