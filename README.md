@@ -3,16 +3,29 @@
 
 Software Engineer Intern @ TikTok · MSc DSML @ NUS · SJTU alumnus
 
-Working on agent systems and scientific visualization.
+Building agent workflows and scientific interfaces, with upstream fixes for runtime reliability, cross-platform behavior, and data correctness.
 
 ### Selected projects
+
+**Agents & developer tools**
 
 - [**SagaSmith**](https://sagasmithai.github.io/): Agent-led TTRPG platform with a rules engine (Alpha).
 - [**RepoStew**](https://dajiaohuang.github.io/repostew/): Repository workflows and a Pi-native execution harness with native queues, durable continuation, and MCP/CLI governance; integrates with OpenRig.
 - [**Clash of Tokens**](https://github.com/dajiaohuang/clash-of-tokens): Local Go AI gateway across providers and accounts.
 - [**Archive & Apply**](https://dajiaohuang.github.io/Archive_and_Apply_Skill/): Traceable resumes, interview materials, and applications.
+
+**Scientific interfaces**
+
 - [**Evo Atlas**](https://dajiaohuang.github.io/evo/): Geological time, fossils, and evolution with scientific uncertainty.
 - [**Solar Atlas**](https://dajiaohuang.github.io/solar/): Orbits and small-body exploration; not for operational navigation.
+
+### Selected merged fixes
+
+- **Discover compute backends on the first placement lookup** — [PraisonAI #6237](https://github.com/MervinPraison/PraisonAI/pull/6237).
+- **Report conflicting roster activity as unknown** — [OpenRig #2574](https://github.com/mvschwarz/openrig/pull/2574).
+- **Remap the legacy MiniMax M2 rotary-dimension parameter** — [Transformers #48486](https://github.com/huggingface/transformers/pull/48486).
+
+<sub>Authorship and merged status checked on 2026-11-06. Upstream acceptance does not establish deployment or performance gains.</sub>
 
 ### Agent / AI Infra contributions
 
@@ -25,7 +38,7 @@ Working on agent systems and scientific visualization.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) — Browser connection, temporary profile cleanup, and Windows build fixes (**6 merged PRs**)
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) — Learning-state, MCP configuration, and WebUI save reliability fixes (**35 merged PRs**)
 
-[Full contribution record](./CONTRIBUTIONS.md)
+[Full contribution record](./CONTRIBUTIONS.md) · [Projects & research](https://dajiaohuang.github.io/)
 
 <sub>As of 2026-10-27 (UTC): 6,964 public authored PRs (2,398 merged); 1,552 merged PRs across 779 public external repositories, excluding repositories owned by dajiaohuang or SagaSmithAI. <a href="./contributions.json">Snapshot</a></sub>
 
@@ -40,18 +53,31 @@ Working on agent systems and scientific visualization.
 
 TikTok 软件工程实习生 · 新加坡国立大学 DSML 硕士 · 上海交通大学校友
 
-关注智能体系统与科学可视化。
+构建智能体工作流与科学交互工具，也为上游开源项目修复运行时、跨平台与数据正确性问题。
 
 [个人主页](https://dajiaohuang.github.io/) · [邮箱](mailto:mikewushuwen@gmail.com) · [LinkedIn](https://www.linkedin.com/in/wu-shuwen-ab3977259)
 
 ### 代表项目
 
+**智能体与开发工具**
+
 - [**SagaSmith**](https://sagasmithai.github.io/)：智能体主持与规则引擎的 TTRPG 平台（Alpha）。
 - [**RepoStew**](https://dajiaohuang.github.io/repostew/index.zh.html)：仓库工作流与 Pi 原生执行 harness：支持原生队列、持久续跑和 MCP / CLI 治理；可配合 OpenRig 使用。
 - [**Clash of Tokens**](https://github.com/dajiaohuang/clash-of-tokens)：多服务商、多账号的本地 Go AI 网关。
 - [**Archive & Apply**](https://dajiaohuang.github.io/Archive_and_Apply_Skill/)：可追溯的简历、面试与申请材料工作流。
+
+**科学交互**
+
 - [**Evo Atlas**](https://dajiaohuang.github.io/evo/)：地质年代、化石与演化图谱，呈现科学不确定性。
 - [**Solar Atlas**](https://dajiaohuang.github.io/solar/)：轨道与小天体探索；不用于实际导航。
+
+### 已合并的代表修复
+
+- **首次放置查询时发现计算后端** — [PraisonAI #6237](https://github.com/MervinPraison/PraisonAI/pull/6237)。
+- **将冲突的席位活动状态报告为未知** — [OpenRig #2574](https://github.com/mvschwarz/openrig/pull/2574)。
+- **映射 MiniMax M2 旧版旋转维度参数** — [Transformers #48486](https://github.com/huggingface/transformers/pull/48486)。
+
+<sub>2026-11-06 核实本人提交与合并状态；上游接受不代表部署或性能收益。</sub>
 
 ### Agent / AI Infra 开源贡献
 
@@ -64,7 +90,7 @@ TikTok 软件工程实习生 · 新加坡国立大学 DSML 硕士 · 上海交�
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) — 浏览器连接、临时资源清理与 Windows 构建修复（**6 个已合并 PR**）
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) — 学习状态、MCP 配置与 WebUI 保存可靠性修复（**35 个已合并 PR**）
 
-[完整贡献记录](./CONTRIBUTIONS.md)
+[完整贡献记录](./CONTRIBUTIONS.md) · [项目与研究主页](https://dajiaohuang.github.io/)
 
 <sub>截至 2026-10-27（UTC）：GitHub 公开 authored PR 共 6,964 个（2,398 个已合并）；其中公开外部仓库有 1,552 个已合并 PR，覆盖 779 个仓库（排除 dajiaohuang 和 SagaSmithAI 名下仓库）。 <a href="./contributions.json">统计快照</a></sub>
 
