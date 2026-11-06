@@ -19,13 +19,26 @@ Building agent workflows and scientific interfaces, with upstream fixes for runt
 - [**Evo Atlas**](https://dajiaohuang.github.io/evo/): Geological time, fossils, and evolution with scientific uncertainty.
 - [**Solar Atlas**](https://dajiaohuang.github.io/solar/): Orbits and small-body exploration; not for operational navigation.
 
-### Selected merged fixes
+### Projects where I’m a top contributor
 
-- **Discover compute backends on the first placement lookup** — [PraisonAI #6237](https://github.com/MervinPraison/PraisonAI/pull/6237).
-- **Report conflicting roster activity as unknown** — [OpenRig #2574](https://github.com/mvschwarz/openrig/pull/2574).
-- **Remap the legacy MiniMax M2 rotary-dimension parameter** — [Transformers #48486](https://github.com/huggingface/transformers/pull/48486).
+As of 2026-11-06 UTC: listed in the top five contributors of 157 non-fork external projects among 779 repositories checked from my historical contribution snapshot. Featured projects have at least 5 attributed commits; up to 20 are selected by repository stars.
 
-<sub>Authorship and merged status checked on 2026-11-06. Upstream acceptance does not establish deployment or performance gains.</sub>
+**GitHub #1** · [RevoltSecurities/Subdominator](https://github.com/RevoltSecurities/Subdominator/graphs/contributors) (812 ★ · 9 commits)
+
+**GitHub #2** · [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP/graphs/contributors) (3,874 ★ · 12 commits) · [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell/graphs/contributors) (1,303 ★ · 7 commits) · [lateralblast/lunar](https://github.com/lateralblast/lunar/graphs/contributors) (317 ★ · 54 commits) · [massimodeluisa/sidus-tools](https://github.com/massimodeluisa/sidus-tools/graphs/contributors) (3 ★ · 54 commits)
+
+**GitHub #3** · [mvschwarz/openrig](https://github.com/mvschwarz/openrig/graphs/contributors) (8,692 ★ · 65 commits) · [domokane/FinancePy](https://github.com/domokane/FinancePy/graphs/contributors) (3,216 ★ · 80 commits) · [zhtyyx/ioe](https://github.com/zhtyyx/ioe/graphs/contributors) (1,637 ★ · 5 commits) · [doriaxengine/doriax](https://github.com/doriaxengine/doriax/graphs/contributors) (910 ★ · 8 commits) · [revoframework/Revo](https://github.com/revoframework/Revo/graphs/contributors) (717 ★ · 8 commits) · [bytedance/vArmor](https://github.com/bytedance/vArmor/graphs/contributors) (514 ★ · 7 commits) · [d3x0r/JSON6](https://github.com/d3x0r/JSON6/graphs/contributors) (242 ★ · 6 commits) · [1parado/grok-build-switch](https://github.com/1parado/grok-build-switch/graphs/contributors) (206 ★ · 19 commits) · [kuan-er/sjtu-agent](https://github.com/kuan-er/sjtu-agent/graphs/contributors) (104 ★ · 25 commits)
+
+**GitHub #4** · [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI/graphs/contributors) (9,322 ★ · 272 commits) · [astrelsky/GhidraOrbis](https://github.com/astrelsky/GhidraOrbis/graphs/contributors) (98 ★ · 5 commits)
+
+**GitHub #5** · [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor/graphs/contributors) (55,817 ★ · 70 commits) · [tinyplex/tinybase](https://github.com/tinyplex/tinybase/graphs/contributors) (5,211 ★ · 5 commits)
+
+<sub>Positions follow the GitHub Contributors API: all-time attributed commits, including bots, with ties in API order. Stars describe repository reach, not personal credit. Coverage starts from the 2026-10-27 merged-PR snapshot, not a current account-wide census.</sub>
+
+[All verified top-five projects](./TOP-CONTRIBUTOR.md) · [API snapshot](./contributor-ranks.json)
+
+<details>
+<summary>Contribution areas and historical PR counts</summary>
 
 ### Agent / AI Infra contributions
 
@@ -41,6 +54,8 @@ Building agent workflows and scientific interfaces, with upstream fixes for runt
 [Full contribution record](./CONTRIBUTIONS.md) · [Projects & research](https://dajiaohuang.github.io/)
 
 <sub>As of 2026-10-27 (UTC): 6,964 public authored PRs (2,398 merged); 1,552 merged PRs across 779 public external repositories, excluding repositories owned by dajiaohuang or SagaSmithAI. <a href="./contributions.json">Snapshot</a></sub>
+
+</details>
 
 ### Research
 
@@ -71,13 +86,26 @@ TikTok 软件工程实习生 · 新加坡国立大学 DSML 硕士 · 上海交�
 - [**Evo Atlas**](https://dajiaohuang.github.io/evo/)：地质年代、化石与演化图谱，呈现科学不确定性。
 - [**Solar Atlas**](https://dajiaohuang.github.io/solar/)：轨道与小天体探索；不用于实际导航。
 
-### 已合并的代表修复
+### 贡献者排名前列的项目
 
-- **首次放置查询时发现计算后端** — [PraisonAI #6237](https://github.com/MervinPraison/PraisonAI/pull/6237)。
-- **将冲突的席位活动状态报告为未知** — [OpenRig #2574](https://github.com/mvschwarz/openrig/pull/2574)。
-- **映射 MiniMax M2 旧版旋转维度参数** — [Transformers #48486](https://github.com/huggingface/transformers/pull/48486)。
+截至 2026-11-06（UTC），在已核查的 779 个历史贡献仓库中，157 个非 fork 外部项目的 GitHub 贡献者列表位居前五。首页精选至少 5 个归属 commit 的项目，按仓库星标数选取最多 20 项。
 
-<sub>2026-11-06 核实本人提交与合并状态；上游接受不代表部署或性能收益。</sub>
+**GitHub #1** · [RevoltSecurities/Subdominator](https://github.com/RevoltSecurities/Subdominator/graphs/contributors) (812 ★ · 9 commits)
+
+**GitHub #2** · [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP/graphs/contributors) (3,874 ★ · 12 commits) · [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell/graphs/contributors) (1,303 ★ · 7 commits) · [lateralblast/lunar](https://github.com/lateralblast/lunar/graphs/contributors) (317 ★ · 54 commits) · [massimodeluisa/sidus-tools](https://github.com/massimodeluisa/sidus-tools/graphs/contributors) (3 ★ · 54 commits)
+
+**GitHub #3** · [mvschwarz/openrig](https://github.com/mvschwarz/openrig/graphs/contributors) (8,692 ★ · 65 commits) · [domokane/FinancePy](https://github.com/domokane/FinancePy/graphs/contributors) (3,216 ★ · 80 commits) · [zhtyyx/ioe](https://github.com/zhtyyx/ioe/graphs/contributors) (1,637 ★ · 5 commits) · [doriaxengine/doriax](https://github.com/doriaxengine/doriax/graphs/contributors) (910 ★ · 8 commits) · [revoframework/Revo](https://github.com/revoframework/Revo/graphs/contributors) (717 ★ · 8 commits) · [bytedance/vArmor](https://github.com/bytedance/vArmor/graphs/contributors) (514 ★ · 7 commits) · [d3x0r/JSON6](https://github.com/d3x0r/JSON6/graphs/contributors) (242 ★ · 6 commits) · [1parado/grok-build-switch](https://github.com/1parado/grok-build-switch/graphs/contributors) (206 ★ · 19 commits) · [kuan-er/sjtu-agent](https://github.com/kuan-er/sjtu-agent/graphs/contributors) (104 ★ · 25 commits)
+
+**GitHub #4** · [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI/graphs/contributors) (9,322 ★ · 272 commits) · [astrelsky/GhidraOrbis](https://github.com/astrelsky/GhidraOrbis/graphs/contributors) (98 ★ · 5 commits)
+
+**GitHub #5** · [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor/graphs/contributors) (55,817 ★ · 70 commits) · [tinyplex/tinybase](https://github.com/tinyplex/tinybase/graphs/contributors) (5,211 ★ · 5 commits)
+
+<sub>排名按 GitHub Contributors API 累计归属 commit 数及返回顺序（含机器人）；同数先后不表示质量差异。星标属于仓库，不是个人贡献量。核查范围来自 2026-10-27 已合并 PR 快照，不代表当前账号全量。</sub>
+
+[全部已核实的前五项目](./TOP-CONTRIBUTOR.md) · [API 核验快照](./contributor-ranks.json)
+
+<details>
+<summary>贡献领域与历史 PR 统计</summary>
 
 ### Agent / AI Infra 开源贡献
 
@@ -93,6 +121,8 @@ TikTok 软件工程实习生 · 新加坡国立大学 DSML 硕士 · 上海交�
 [完整贡献记录](./CONTRIBUTIONS.md) · [项目与研究主页](https://dajiaohuang.github.io/)
 
 <sub>截至 2026-10-27（UTC）：GitHub 公开 authored PR 共 6,964 个（2,398 个已合并）；其中公开外部仓库有 1,552 个已合并 PR，覆盖 779 个仓库（排除 dajiaohuang 和 SagaSmithAI 名下仓库）。 <a href="./contributions.json">统计快照</a></sub>
+
+</details>
 
 ### 研究
 
