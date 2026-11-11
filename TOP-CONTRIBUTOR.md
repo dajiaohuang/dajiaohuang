@@ -1,173 +1,161 @@
 # Top contributor projects / 贡献排名前列的项目
 
-As of 2026-11-06 UTC: listed in the top five contributors of 157 non-fork external projects among 779 repositories checked from my historical contribution snapshot. Featured projects have at least 5 attributed commits; up to 20 are selected by repository stars.
-
-截至 2026-11-06（UTC），在已核查的 779 个历史贡献仓库中，157 个非 fork 外部项目的 GitHub 贡献者列表位居前五。首页精选至少 5 个归属 commit 的项目，按仓库星标数选取最多 20 项。
-
-Positions follow the GitHub Contributors API: all-time attributed commits, including bots, with ties in API order. Stars describe repository reach, not personal credit. Coverage starts from the 2026-10-27 merged-PR snapshot, not a current account-wide census.
-
-排名按 GitHub Contributors API 累计归属 commit 数及返回顺序（含机器人）；同数先后不表示质量差异。星标属于仓库，不是个人贡献量。核查范围来自 2026-10-27 已合并 PR 快照，不代表当前账号全量。
-
-[Raw API snapshot / 原始核验快照](contributor-ranks.json)
-
-| Project | API position | Attributed commits | Repository stars | Evidence |
-| --- | ---: | ---: | ---: | --- |
-| [RevoltSecurities/Subdominator](https://github.com/RevoltSecurities/Subdominator) | #1 | 9 | 812 | [Contributors](https://github.com/RevoltSecurities/Subdominator/graphs/contributors) |
-| [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP) | #2 | 12 | 3874 | [Contributors](https://github.com/dongrixinyu/JioNLP/graphs/contributors) |
-| [AngusKit/AngusTester](https://github.com/AngusKit/AngusTester) | #2 | 1 | 1777 | [Contributors](https://github.com/AngusKit/AngusTester/graphs/contributors) |
-| [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) | #2 | 7 | 1303 | [Contributors](https://github.com/lasantosr/intelli-shell/graphs/contributors) |
-| [realZachi/pg-jev](https://github.com/realZachi/pg-jev) | #2 | 1 | 1266 | [Contributors](https://github.com/realZachi/pg-jev/graphs/contributors) |
-| [Mapika/decider](https://github.com/Mapika/decider) | #2 | 2 | 1079 | [Contributors](https://github.com/Mapika/decider/graphs/contributors) |
-| [daandemeyer/reproc](https://github.com/daandemeyer/reproc) | #2 | 3 | 663 | [Contributors](https://github.com/daandemeyer/reproc/graphs/contributors) |
-| [dannyfritz/awesome-ray-tracing](https://github.com/dannyfritz/awesome-ray-tracing) | #2 | 1 | 658 | [Contributors](https://github.com/dannyfritz/awesome-ray-tracing/graphs/contributors) |
-| [superagents-lab/jev-search](https://github.com/superagents-lab/jev-search) | #2 | 2 | 555 | [Contributors](https://github.com/superagents-lab/jev-search/graphs/contributors) |
-| [jerryjliu/docjev](https://github.com/jerryjliu/docjev) | #2 | 1 | 550 | [Contributors](https://github.com/jerryjliu/docjev/graphs/contributors) |
-| [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) | #2 | 1 | 547 | [Contributors](https://github.com/cvilsmeier/sqinn-go/graphs/contributors) |
-| [66RING/tiny-flash-attention](https://github.com/66RING/tiny-flash-attention) | #2 | 1 | 542 | [Contributors](https://github.com/66RING/tiny-flash-attention/graphs/contributors) |
-| [darrachequesne/spring-data-jpa-datatables](https://github.com/darrachequesne/spring-data-jpa-datatables) | #2 | 2 | 454 | [Contributors](https://github.com/darrachequesne/spring-data-jpa-datatables/graphs/contributors) |
-| [drduh/Debian-Privacy-Server-Guide](https://github.com/drduh/Debian-Privacy-Server-Guide) | #2 | 1 | 447 | [Contributors](https://github.com/drduh/Debian-Privacy-Server-Guide/graphs/contributors) |
-| [Nezz/homeassistant-visionos-theme](https://github.com/Nezz/homeassistant-visionos-theme) | #2 | 1 | 436 | [Contributors](https://github.com/Nezz/homeassistant-visionos-theme/graphs/contributors) |
-| [latonita/arduino-canbus-monitor](https://github.com/latonita/arduino-canbus-monitor) | #2 | 2 | 337 | [Contributors](https://github.com/latonita/arduino-canbus-monitor/graphs/contributors) |
-| [lateralblast/lunar](https://github.com/lateralblast/lunar) | #2 | 54 | 317 | [Contributors](https://github.com/lateralblast/lunar/graphs/contributors) |
-| [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) | #2 | 3 | 308 | [Contributors](https://github.com/cyberchitta/llm-context.py/graphs/contributors) |
-| [amxv/mcp-manager](https://github.com/amxv/mcp-manager) | #2 | 1 | 296 | [Contributors](https://github.com/amxv/mcp-manager/graphs/contributors) |
-| [righel/gitlab-version-nse](https://github.com/righel/gitlab-version-nse) | #2 | 1 | 255 | [Contributors](https://github.com/righel/gitlab-version-nse/graphs/contributors) |
-| [dave3d/dicom2stl](https://github.com/dave3d/dicom2stl) | #2 | 2 | 218 | [Contributors](https://github.com/dave3d/dicom2stl/graphs/contributors) |
-| [dosasm/masm-tasm](https://github.com/dosasm/masm-tasm) | #2 | 1 | 183 | [Contributors](https://github.com/dosasm/masm-tasm/graphs/contributors) |
-| [dafrito/luacxx](https://github.com/dafrito/luacxx) | #2 | 2 | 165 | [Contributors](https://github.com/dafrito/luacxx/graphs/contributors) |
-| [dahlia/seonbi](https://github.com/dahlia/seonbi) | #2 | 3 | 149 | [Contributors](https://github.com/dahlia/seonbi/graphs/contributors) |
-| [3ddelano/discord.gd](https://github.com/3ddelano/discord.gd) | #2 | 3 | 146 | [Contributors](https://github.com/3ddelano/discord.gd/graphs/contributors) |
-| [rickb777/date](https://github.com/rickb777/date) | #2 | 2 | 142 | [Contributors](https://github.com/rickb777/date/graphs/contributors) |
-| [acuteimmersive/openimmersive](https://github.com/acuteimmersive/openimmersive) | #2 | 1 | 133 | [Contributors](https://github.com/acuteimmersive/openimmersive/graphs/contributors) |
-| [8LWXpg/PowerToysRun-GitHubRepo](https://github.com/8LWXpg/PowerToysRun-GitHubRepo) | #2 | 2 | 132 | [Contributors](https://github.com/8LWXpg/PowerToysRun-GitHubRepo/graphs/contributors) |
-| [acrodata/gui](https://github.com/acrodata/gui) | #2 | 1 | 131 | [Contributors](https://github.com/acrodata/gui/graphs/contributors) |
-| [cyberchitta/scrapling-fetch-mcp](https://github.com/cyberchitta/scrapling-fetch-mcp) | #2 | 1 | 128 | [Contributors](https://github.com/cyberchitta/scrapling-fetch-mcp/graphs/contributors) |
-| [ACB-prgm/Godot_GamePad](https://github.com/ACB-prgm/Godot_GamePad) | #2 | 4 | 125 | [Contributors](https://github.com/ACB-prgm/Godot_GamePad/graphs/contributors) |
-| [datar001/Awesome-AD-on-T2IDM](https://github.com/datar001/Awesome-AD-on-T2IDM) | #2 | 2 | 105 | [Contributors](https://github.com/datar001/Awesome-AD-on-T2IDM/graphs/contributors) |
-| [massimodeluisa/sidus-tools](https://github.com/massimodeluisa/sidus-tools) | #2 | 54 | 3 | [Contributors](https://github.com/massimodeluisa/sidus-tools/graphs/contributors) |
-| [armbrain-io/armbrain-cursor-plugin](https://github.com/armbrain-io/armbrain-cursor-plugin) | #2 | 1 | 0 | [Contributors](https://github.com/armbrain-io/armbrain-cursor-plugin/graphs/contributors) |
-| [doocs/jvm](https://github.com/doocs/jvm) | #3 | 3 | 11129 | [Contributors](https://github.com/doocs/jvm/graphs/contributors) |
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | #3 | 65 | 8692 | [Contributors](https://github.com/mvschwarz/openrig/graphs/contributors) |
-| [amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D) | #3 | 3 | 6300 | [Contributors](https://github.com/amagine-ai/Amagine3D/graphs/contributors) |
-| [domokane/FinancePy](https://github.com/domokane/FinancePy) | #3 | 80 | 3216 | [Contributors](https://github.com/domokane/FinancePy/graphs/contributors) |
-| [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | #3 | 2 | 3078 | [Contributors](https://github.com/alsk1992/CloddsBot/graphs/contributors) |
-| [aimeos/upscheme](https://github.com/aimeos/upscheme) | #3 | 1 | 2732 | [Contributors](https://github.com/aimeos/upscheme/graphs/contributors) |
-| [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) | #3 | 2 | 2443 | [Contributors](https://github.com/bytedance/android-inline-hook/graphs/contributors) |
-| [a466350665/smart-sso](https://github.com/a466350665/smart-sso) | #3 | 1 | 2300 | [Contributors](https://github.com/a466350665/smart-sso/graphs/contributors) |
-| [52CV/CV-Surveys](https://github.com/52CV/CV-Surveys) | #3 | 1 | 2251 | [Contributors](https://github.com/52CV/CV-Surveys/graphs/contributors) |
-| [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) | #3 | 1 | 1683 | [Contributors](https://github.com/0xdea/frida-scripts/graphs/contributors) |
-| [zhtyyx/ioe](https://github.com/zhtyyx/ioe) | #3 | 5 | 1637 | [Contributors](https://github.com/zhtyyx/ioe/graphs/contributors) |
-| [422658476/MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) | #3 | 1 | 1452 | [Contributors](https://github.com/422658476/MPV-EASY-Player/graphs/contributors) |
-| [291-Group/LAN-Orangutan](https://github.com/291-Group/LAN-Orangutan) | #3 | 2 | 1150 | [Contributors](https://github.com/291-Group/LAN-Orangutan/graphs/contributors) |
-| [doriaxengine/doriax](https://github.com/doriaxengine/doriax) | #3 | 8 | 910 | [Contributors](https://github.com/doriaxengine/doriax/graphs/contributors) |
-| [ankane/vue-chartkick](https://github.com/ankane/vue-chartkick) | #3 | 1 | 748 | [Contributors](https://github.com/ankane/vue-chartkick/graphs/contributors) |
-| [revoframework/Revo](https://github.com/revoframework/Revo) | #3 | 8 | 717 | [Contributors](https://github.com/revoframework/Revo/graphs/contributors) |
-| [dash14/v-network-graph](https://github.com/dash14/v-network-graph) | #3 | 2 | 647 | [Contributors](https://github.com/dash14/v-network-graph/graphs/contributors) |
-| [debanjandhar12/logseq-anki-sync](https://github.com/debanjandhar12/logseq-anki-sync) | #3 | 2 | 589 | [Contributors](https://github.com/debanjandhar12/logseq-anki-sync/graphs/contributors) |
-| [Knowledgator/GLiClass](https://github.com/Knowledgator/GLiClass) | #3 | 3 | 579 | [Contributors](https://github.com/Knowledgator/GLiClass/graphs/contributors) |
-| [bytedance/vArmor](https://github.com/bytedance/vArmor) | #3 | 7 | 514 | [Contributors](https://github.com/bytedance/vArmor/graphs/contributors) |
-| [davtur19/DotGit](https://github.com/davtur19/DotGit) | #3 | 4 | 483 | [Contributors](https://github.com/davtur19/DotGit/graphs/contributors) |
-| [Zefan-Cai/Open-Jev](https://github.com/Zefan-Cai/Open-Jev) | #3 | 4 | 444 | [Contributors](https://github.com/Zefan-Cai/Open-Jev/graphs/contributors) |
-| [lazamar/nix-package-versions](https://github.com/lazamar/nix-package-versions) | #3 | 2 | 436 | [Contributors](https://github.com/lazamar/nix-package-versions/graphs/contributors) |
-| [stafyniaksacha/unplugin-fonts](https://github.com/stafyniaksacha/unplugin-fonts) | #3 | 4 | 429 | [Contributors](https://github.com/stafyniaksacha/unplugin-fonts/graphs/contributors) |
-| [cwinvestments/memstack](https://github.com/cwinvestments/memstack) | #3 | 1 | 429 | [Contributors](https://github.com/cwinvestments/memstack/graphs/contributors) |
-| [dayflow-js/BlossomColorPicker](https://github.com/dayflow-js/BlossomColorPicker) | #3 | 1 | 402 | [Contributors](https://github.com/dayflow-js/BlossomColorPicker/graphs/contributors) |
-| [malevrigns/agent-jev](https://github.com/malevrigns/agent-jev) | #3 | 1 | 396 | [Contributors](https://github.com/malevrigns/agent-jev/graphs/contributors) |
-| [aerovato/container](https://github.com/aerovato/container) | #3 | 1 | 385 | [Contributors](https://github.com/aerovato/container/graphs/contributors) |
-| [Cyxuan0311/PNANA](https://github.com/Cyxuan0311/PNANA) | #3 | 2 | 328 | [Contributors](https://github.com/Cyxuan0311/PNANA/graphs/contributors) |
-| [Lavmee/constraintlayout-compose-multiplatform](https://github.com/Lavmee/constraintlayout-compose-multiplatform) | #3 | 2 | 309 | [Contributors](https://github.com/Lavmee/constraintlayout-compose-multiplatform/graphs/contributors) |
-| [RomanSlack/jev-drone](https://github.com/RomanSlack/jev-drone) | #3 | 1 | 298 | [Contributors](https://github.com/RomanSlack/jev-drone/graphs/contributors) |
-| [jaimetur/PhotoMigrator](https://github.com/jaimetur/PhotoMigrator) | #3 | 3 | 268 | [Contributors](https://github.com/jaimetur/PhotoMigrator/graphs/contributors) |
-| [ipenywis/laya-ultrafast](https://github.com/ipenywis/laya-ultrafast) | #3 | 1 | 267 | [Contributors](https://github.com/ipenywis/laya-ultrafast/graphs/contributors) |
-| [zilliztech/vector-graph-rag](https://github.com/zilliztech/vector-graph-rag) | #3 | 1 | 265 | [Contributors](https://github.com/zilliztech/vector-graph-rag/graphs/contributors) |
-| [d3x0r/JSON6](https://github.com/d3x0r/JSON6) | #3 | 6 | 242 | [Contributors](https://github.com/d3x0r/JSON6/graphs/contributors) |
-| [brainstormity/Jev-X-Sentiment-Analysis](https://github.com/brainstormity/Jev-X-Sentiment-Analysis) | #3 | 1 | 229 | [Contributors](https://github.com/brainstormity/Jev-X-Sentiment-Analysis/graphs/contributors) |
-| [dreamtheater123/Awesome-SpeechLM-Survey](https://github.com/dreamtheater123/Awesome-SpeechLM-Survey) | #3 | 1 | 226 | [Contributors](https://github.com/dreamtheater123/Awesome-SpeechLM-Survey/graphs/contributors) |
-| [d-wasserman/Complete_Street_Rule](https://github.com/d-wasserman/Complete_Street_Rule) | #3 | 1 | 218 | [Contributors](https://github.com/d-wasserman/Complete_Street_Rule/graphs/contributors) |
-| [antonbabenko/terraform-docs-as-pdf](https://github.com/antonbabenko/terraform-docs-as-pdf) | #3 | 1 | 210 | [Contributors](https://github.com/antonbabenko/terraform-docs-as-pdf/graphs/contributors) |
-| [1parado/grok-build-switch](https://github.com/1parado/grok-build-switch) | #3 | 19 | 206 | [Contributors](https://github.com/1parado/grok-build-switch/graphs/contributors) |
-| [donghao51/Awesome-Multimodal-Adaptation](https://github.com/donghao51/Awesome-Multimodal-Adaptation) | #3 | 1 | 195 | [Contributors](https://github.com/donghao51/Awesome-Multimodal-Adaptation/graphs/contributors) |
-| [dimtass/DSP-Cpp-filters](https://github.com/dimtass/DSP-Cpp-filters) | #3 | 3 | 188 | [Contributors](https://github.com/dimtass/DSP-Cpp-filters/graphs/contributors) |
-| [csinva/imodelsX](https://github.com/csinva/imodelsX) | #3 | 4 | 177 | [Contributors](https://github.com/csinva/imodelsX/graphs/contributors) |
-| [dahlia/cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms) | #3 | 2 | 160 | [Contributors](https://github.com/dahlia/cjk-compsci-terms/graphs/contributors) |
-| [andriy-git/stocksTUI](https://github.com/andriy-git/stocksTUI) | #3 | 1 | 160 | [Contributors](https://github.com/andriy-git/stocksTUI/graphs/contributors) |
-| [daseinlabs/open-jev](https://github.com/daseinlabs/open-jev) | #3 | 1 | 135 | [Contributors](https://github.com/daseinlabs/open-jev/graphs/contributors) |
-| [andrei-tatar/node-red-contrib-smartnora](https://github.com/andrei-tatar/node-red-contrib-smartnora) | #3 | 1 | 113 | [Contributors](https://github.com/andrei-tatar/node-red-contrib-smartnora/graphs/contributors) |
-| [kuan-er/sjtu-agent](https://github.com/kuan-er/sjtu-agent) | #3 | 25 | 104 | [Contributors](https://github.com/kuan-er/sjtu-agent/graphs/contributors) |
-| [00200200/maintainer-skills-lab](https://github.com/00200200/maintainer-skills-lab) | #3 | 3 | 48 | [Contributors](https://github.com/00200200/maintainer-skills-lab/graphs/contributors) |
-| [bytedance/UniVR](https://github.com/bytedance/UniVR) | #3 | 2 | 33 | [Contributors](https://github.com/bytedance/UniVR/graphs/contributors) |
-| [Pico-Developer/SpatialMP4](https://github.com/Pico-Developer/SpatialMP4) | #3 | 1 | 22 | [Contributors](https://github.com/Pico-Developer/SpatialMP4/graphs/contributors) |
-| [divo12/awesome-grok-bot-templates](https://github.com/divo12/awesome-grok-bot-templates) | #3 | 1 | 4 | [Contributors](https://github.com/divo12/awesome-grok-bot-templates/graphs/contributors) |
-| [d-513/grok-bot-nix](https://github.com/d-513/grok-bot-nix) | #3 | 1 | 1 | [Contributors](https://github.com/d-513/grok-bot-nix/graphs/contributors) |
-| [wendyLei0620/CS4248-Memesense](https://github.com/wendyLei0620/CS4248-Memesense) | #3 | 3 | 1 | [Contributors](https://github.com/wendyLei0620/CS4248-Memesense/graphs/contributors) |
-| [blader/humanizer](https://github.com/blader/humanizer) | #4 | 2 | 65532 | [Contributors](https://github.com/blader/humanizer/graphs/contributors) |
-| [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | #4 | 1 | 13027 | [Contributors](https://github.com/handsomestWei/patent-disclosure-skill/graphs/contributors) |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | #4 | 272 | 9322 | [Contributors](https://github.com/MervinPraison/PraisonAI/graphs/contributors) |
-| [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) | #4 | 1 | 7139 | [Contributors](https://github.com/AllThingsSmitty/must-watch-javascript/graphs/contributors) |
-| [aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills) | #4 | 1 | 3084 | [Contributors](https://github.com/aaron-he-zhu/aaron-marketing-skills/graphs/contributors) |
-| [ankane/production_rails](https://github.com/ankane/production_rails) | #4 | 1 | 2328 | [Contributors](https://github.com/ankane/production_rails/graphs/contributors) |
-| [ron190/jsql-injection](https://github.com/ron190/jsql-injection) | #4 | 1 | 1789 | [Contributors](https://github.com/ron190/jsql-injection/graphs/contributors) |
-| [admpub/nging](https://github.com/admpub/nging) | #4 | 1 | 1599 | [Contributors](https://github.com/admpub/nging/graphs/contributors) |
-| [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) | #4 | 2 | 1457 | [Contributors](https://github.com/gruhn/awesome-naming/graphs/contributors) |
-| [stoolap/stoolap](https://github.com/stoolap/stoolap) | #4 | 1 | 1248 | [Contributors](https://github.com/stoolap/stoolap/graphs/contributors) |
-| [reversenseorg/dexcalibur](https://github.com/reversenseorg/dexcalibur) | #4 | 3 | 1187 | [Contributors](https://github.com/reversenseorg/dexcalibur/graphs/contributors) |
-| [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow) | #4 | 1 | 958 | [Contributors](https://github.com/Rizzo-AI-Academy/rizzo-flow/graphs/contributors) |
-| [coldteadotai/abide](https://github.com/coldteadotai/abide) | #4 | 2 | 623 | [Contributors](https://github.com/coldteadotai/abide/graphs/contributors) |
-| [junegunn/vim-emoji](https://github.com/junegunn/vim-emoji) | #4 | 1 | 615 | [Contributors](https://github.com/junegunn/vim-emoji/graphs/contributors) |
-| [DamianEdwards/RazorSlices](https://github.com/DamianEdwards/RazorSlices) | #4 | 2 | 593 | [Contributors](https://github.com/DamianEdwards/RazorSlices/graphs/contributors) |
-| [Kikobeats/awesome-network-js](https://github.com/Kikobeats/awesome-network-js) | #4 | 1 | 585 | [Contributors](https://github.com/Kikobeats/awesome-network-js/graphs/contributors) |
-| [msp1974/ViewAssist_Companion_App](https://github.com/msp1974/ViewAssist_Companion_App) | #4 | 2 | 524 | [Contributors](https://github.com/msp1974/ViewAssist_Companion_App/graphs/contributors) |
-| [CScorza/OSINTAnonymous](https://github.com/CScorza/OSINTAnonymous) | #4 | 1 | 476 | [Contributors](https://github.com/CScorza/OSINTAnonymous/graphs/contributors) |
-| [alexruperez/SecurePropertyStorage](https://github.com/alexruperez/SecurePropertyStorage) | #4 | 1 | 471 | [Contributors](https://github.com/alexruperez/SecurePropertyStorage/graphs/contributors) |
-| [notque/vexjoy-agent](https://github.com/notque/vexjoy-agent) | #4 | 2 | 446 | [Contributors](https://github.com/notque/vexjoy-agent/graphs/contributors) |
-| [agitter/single-cell-pseudotime](https://github.com/agitter/single-cell-pseudotime) | #4 | 1 | 446 | [Contributors](https://github.com/agitter/single-cell-pseudotime/graphs/contributors) |
-| [a-agmon/rs-graph-llm](https://github.com/a-agmon/rs-graph-llm) | #4 | 1 | 386 | [Contributors](https://github.com/a-agmon/rs-graph-llm/graphs/contributors) |
-| [jkudish/jev-browser](https://github.com/jkudish/jev-browser) | #4 | 1 | 367 | [Contributors](https://github.com/jkudish/jev-browser/graphs/contributors) |
-| [BugeStudioTeam/Buge-App-Manager](https://github.com/BugeStudioTeam/Buge-App-Manager) | #4 | 1 | 332 | [Contributors](https://github.com/BugeStudioTeam/Buge-App-Manager/graphs/contributors) |
-| [AmplifyCreations/AmplifyOcclusion](https://github.com/AmplifyCreations/AmplifyOcclusion) | #4 | 1 | 329 | [Contributors](https://github.com/AmplifyCreations/AmplifyOcclusion/graphs/contributors) |
-| [appleple/smartblock](https://github.com/appleple/smartblock) | #4 | 1 | 317 | [Contributors](https://github.com/appleple/smartblock/graphs/contributors) |
-| [abersheeran/kui](https://github.com/abersheeran/kui) | #4 | 1 | 297 | [Contributors](https://github.com/abersheeran/kui/graphs/contributors) |
-| [dongyubin/Awesome-AI-Images-Prompts](https://github.com/dongyubin/Awesome-AI-Images-Prompts) | #4 | 1 | 294 | [Contributors](https://github.com/dongyubin/Awesome-AI-Images-Prompts/graphs/contributors) |
-| [darrenldl/docfd](https://github.com/darrenldl/docfd) | #4 | 1 | 292 | [Contributors](https://github.com/darrenldl/docfd/graphs/contributors) |
-| [bytedance/PatchEval](https://github.com/bytedance/PatchEval) | #4 | 2 | 235 | [Contributors](https://github.com/bytedance/PatchEval/graphs/contributors) |
-| [AngelJumbo/sssnake](https://github.com/AngelJumbo/sssnake) | #4 | 1 | 235 | [Contributors](https://github.com/AngelJumbo/sssnake/graphs/contributors) |
-| [Cyclenerd/google-cloud-pricing-cost-calculator](https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator) | #4 | 2 | 222 | [Contributors](https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator/graphs/contributors) |
-| [alexmyczko/ruptime](https://github.com/alexmyczko/ruptime) | #4 | 1 | 213 | [Contributors](https://github.com/alexmyczko/ruptime/graphs/contributors) |
-| [diegofrata/Generator.Equals](https://github.com/diegofrata/Generator.Equals) | #4 | 3 | 193 | [Contributors](https://github.com/diegofrata/Generator.Equals/graphs/contributors) |
-| [anirudhbiyani/findmytakeover](https://github.com/anirudhbiyani/findmytakeover) | #4 | 1 | 179 | [Contributors](https://github.com/anirudhbiyani/findmytakeover/graphs/contributors) |
-| [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp) | #4 | 2 | 171 | [Contributors](https://github.com/aaronjmars/web3-research-mcp/graphs/contributors) |
-| [anderseknert/kube-review](https://github.com/anderseknert/kube-review) | #4 | 1 | 161 | [Contributors](https://github.com/anderseknert/kube-review/graphs/contributors) |
-| [88250/gulu](https://github.com/88250/gulu) | #4 | 1 | 157 | [Contributors](https://github.com/88250/gulu/graphs/contributors) |
-| [aelew/devterms](https://github.com/aelew/devterms) | #4 | 1 | 156 | [Contributors](https://github.com/aelew/devterms/graphs/contributors) |
-| [DanielCardonaRojas/codemark](https://github.com/DanielCardonaRojas/codemark) | #4 | 1 | 138 | [Contributors](https://github.com/DanielCardonaRojas/codemark/graphs/contributors) |
-| [dpt/The-Great-Escape-in-C](https://github.com/dpt/The-Great-Escape-in-C) | #4 | 1 | 133 | [Contributors](https://github.com/dpt/The-Great-Escape-in-C/graphs/contributors) |
-| [ParisNeo/lollms](https://github.com/ParisNeo/lollms) | #4 | 1 | 106 | [Contributors](https://github.com/ParisNeo/lollms/graphs/contributors) |
-| [astrelsky/GhidraOrbis](https://github.com/astrelsky/GhidraOrbis) | #4 | 5 | 98 | [Contributors](https://github.com/astrelsky/GhidraOrbis/graphs/contributors) |
-| [mlorentedev/hive](https://github.com/mlorentedev/hive) | #4 | 1 | 10 | [Contributors](https://github.com/mlorentedev/hive/graphs/contributors) |
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | #5 | 70 | 55817 | [Contributors](https://github.com/HKUDS/DeepTutor/graphs/contributors) |
-| [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop) | #5 | 1 | 5971 | [Contributors](https://github.com/dmmulroy/anti-slop/graphs/contributors) |
-| [tinyplex/tinybase](https://github.com/tinyplex/tinybase) | #5 | 5 | 5211 | [Contributors](https://github.com/tinyplex/tinybase/graphs/contributors) |
-| [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) | #5 | 2 | 1886 | [Contributors](https://github.com/DosX-dev/obfus.h/graphs/contributors) |
-| [AndersonBY/vector-vein](https://github.com/AndersonBY/vector-vein) | #5 | 1 | 942 | [Contributors](https://github.com/AndersonBY/vector-vein/graphs/contributors) |
-| [Codepoints/awesome-codepoints](https://github.com/Codepoints/awesome-codepoints) | #5 | 1 | 779 | [Contributors](https://github.com/Codepoints/awesome-codepoints/graphs/contributors) |
-| [d3-node/d3-node](https://github.com/d3-node/d3-node) | #5 | 1 | 684 | [Contributors](https://github.com/d3-node/d3-node/graphs/contributors) |
-| [deeplay-io/nice-grpc](https://github.com/deeplay-io/nice-grpc) | #5 | 2 | 539 | [Contributors](https://github.com/deeplay-io/nice-grpc/graphs/contributors) |
-| [dorumrr/de1984](https://github.com/dorumrr/de1984) | #5 | 1 | 500 | [Contributors](https://github.com/dorumrr/de1984/graphs/contributors) |
-| [accelerated-text/awesome-nlg](https://github.com/accelerated-text/awesome-nlg) | #5 | 1 | 483 | [Contributors](https://github.com/accelerated-text/awesome-nlg/graphs/contributors) |
-| [daac-tools/vibrato](https://github.com/daac-tools/vibrato) | #5 | 1 | 428 | [Contributors](https://github.com/daac-tools/vibrato/graphs/contributors) |
-| [ualex73/monitor_docker](https://github.com/ualex73/monitor_docker) | #5 | 4 | 417 | [Contributors](https://github.com/ualex73/monitor_docker/graphs/contributors) |
-| [cybergarage/cybergarage-upnp](https://github.com/cybergarage/cybergarage-upnp) | #5 | 2 | 410 | [Contributors](https://github.com/cybergarage/cybergarage-upnp/graphs/contributors) |
-| [hassio-addons/app-aircast](https://github.com/hassio-addons/app-aircast) | #5 | 1 | 410 | [Contributors](https://github.com/hassio-addons/app-aircast/graphs/contributors) |
-| [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme) | #5 | 1 | 352 | [Contributors](https://github.com/andrejilderda/joplin-macos-native-theme/graphs/contributors) |
-| [datnguye/dbterd](https://github.com/datnguye/dbterd) | #5 | 4 | 348 | [Contributors](https://github.com/datnguye/dbterd/graphs/contributors) |
-| [LastOliveGames/becsy](https://github.com/LastOliveGames/becsy) | #5 | 1 | 299 | [Contributors](https://github.com/LastOliveGames/becsy/graphs/contributors) |
-| [custom-cards/flex-table-card](https://github.com/custom-cards/flex-table-card) | #5 | 3 | 282 | [Contributors](https://github.com/custom-cards/flex-table-card/graphs/contributors) |
-| [dalisoft/awesome-storage](https://github.com/dalisoft/awesome-storage) | #5 | 1 | 269 | [Contributors](https://github.com/dalisoft/awesome-storage/graphs/contributors) |
-| [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) | #5 | 1 | 198 | [Contributors](https://github.com/34892002/bilibili-mcp-js/graphs/contributors) |
-| [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) | #5 | 1 | 197 | [Contributors](https://github.com/cubxxw/awesome-cs-course/graphs/contributors) |
-| [antimony-lang/antimony](https://github.com/antimony-lang/antimony) | #5 | 1 | 171 | [Contributors](https://github.com/antimony-lang/antimony/graphs/contributors) |
-| [ajinabraham/libsast](https://github.com/ajinabraham/libsast) | #5 | 1 | 138 | [Contributors](https://github.com/ajinabraham/libsast/graphs/contributors) |
-| [aaronrussell/ollama-ex](https://github.com/aaronrussell/ollama-ex) | #5 | 1 | 137 | [Contributors](https://github.com/aaronrussell/ollama-ex/graphs/contributors) |
-| [2BAD/bitrix](https://github.com/2BAD/bitrix) | #5 | 1 | 111 | [Contributors](https://github.com/2BAD/bitrix/graphs/contributors) |
-
-Coverage: 0 API errors; 0 fork matches excluded. Repositories where this account was absent from the first five API entries are not classified as top-five. This measures GitHub-attributed commits, not PR count, code quality, or contributor endorsement.
+| Project | Rank | Commits | Stars |
+| --- | ---: | ---: | ---: |
+| [RevoltSecurities/Subdominator](https://github.com/RevoltSecurities/Subdominator) | #1 | 9 | 812 |
+| [doocs/jvm](https://github.com/doocs/jvm) | #2 | 3 | 11129 |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | #2 | 272 | 9322 |
+| [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP) | #2 | 12 | 3874 |
+| [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | #2 | 2 | 3078 |
+| [AngusKit/AngusTester](https://github.com/AngusKit/AngusTester) | #2 | 1 | 1777 |
+| [admpub/nging](https://github.com/admpub/nging) | #2 | 1 | 1599 |
+| [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) | #2 | 7 | 1303 |
+| [realZachi/pg-jev](https://github.com/realZachi/pg-jev) | #2 | 1 | 1266 |
+| [Mapika/decider](https://github.com/Mapika/decider) | #2 | 2 | 1079 |
+| [daandemeyer/reproc](https://github.com/daandemeyer/reproc) | #2 | 3 | 663 |
+| [dannyfritz/awesome-ray-tracing](https://github.com/dannyfritz/awesome-ray-tracing) | #2 | 1 | 658 |
+| [dash14/v-network-graph](https://github.com/dash14/v-network-graph) | #2 | 2 | 647 |
+| [superagents-lab/jev-search](https://github.com/superagents-lab/jev-search) | #2 | 2 | 555 |
+| [jerryjliu/docjev](https://github.com/jerryjliu/docjev) | #2 | 1 | 550 |
+| [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) | #2 | 1 | 547 |
+| [66RING/tiny-flash-attention](https://github.com/66RING/tiny-flash-attention) | #2 | 1 | 542 |
+| [darrachequesne/spring-data-jpa-datatables](https://github.com/darrachequesne/spring-data-jpa-datatables) | #2 | 2 | 454 |
+| [drduh/Debian-Privacy-Server-Guide](https://github.com/drduh/Debian-Privacy-Server-Guide) | #2 | 1 | 447 |
+| [Nezz/homeassistant-visionos-theme](https://github.com/Nezz/homeassistant-visionos-theme) | #2 | 1 | 436 |
+| [aerovato/container](https://github.com/aerovato/container) | #2 | 1 | 385 |
+| [latonita/arduino-canbus-monitor](https://github.com/latonita/arduino-canbus-monitor) | #2 | 2 | 337 |
+| [lateralblast/lunar](https://github.com/lateralblast/lunar) | #2 | 54 | 317 |
+| [Lavmee/constraintlayout-compose-multiplatform](https://github.com/Lavmee/constraintlayout-compose-multiplatform) | #2 | 2 | 309 |
+| [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) | #2 | 3 | 308 |
+| [amxv/mcp-manager](https://github.com/amxv/mcp-manager) | #2 | 1 | 296 |
+| [jaimetur/PhotoMigrator](https://github.com/jaimetur/PhotoMigrator) | #2 | 3 | 268 |
+| [righel/gitlab-version-nse](https://github.com/righel/gitlab-version-nse) | #2 | 1 | 255 |
+| [Cyclenerd/google-cloud-pricing-cost-calculator](https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator) | #2 | 2 | 222 |
+| [dave3d/dicom2stl](https://github.com/dave3d/dicom2stl) | #2 | 2 | 218 |
+| [dosasm/masm-tasm](https://github.com/dosasm/masm-tasm) | #2 | 1 | 183 |
+| [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp) | #2 | 2 | 171 |
+| [dafrito/luacxx](https://github.com/dafrito/luacxx) | #2 | 2 | 165 |
+| [dahlia/seonbi](https://github.com/dahlia/seonbi) | #2 | 3 | 149 |
+| [3ddelano/discord.gd](https://github.com/3ddelano/discord.gd) | #2 | 3 | 146 |
+| [rickb777/date](https://github.com/rickb777/date) | #2 | 2 | 142 |
+| [acuteimmersive/openimmersive](https://github.com/acuteimmersive/openimmersive) | #2 | 1 | 133 |
+| [8LWXpg/PowerToysRun-GitHubRepo](https://github.com/8LWXpg/PowerToysRun-GitHubRepo) | #2 | 2 | 132 |
+| [acrodata/gui](https://github.com/acrodata/gui) | #2 | 1 | 131 |
+| [cyberchitta/scrapling-fetch-mcp](https://github.com/cyberchitta/scrapling-fetch-mcp) | #2 | 1 | 128 |
+| [ACB-prgm/Godot_GamePad](https://github.com/ACB-prgm/Godot_GamePad) | #2 | 4 | 125 |
+| [datar001/Awesome-AD-on-T2IDM](https://github.com/datar001/Awesome-AD-on-T2IDM) | #2 | 2 | 105 |
+| [mlorentedev/hive](https://github.com/mlorentedev/hive) | #2 | 1 | 10 |
+| [massimodeluisa/sidus-tools](https://github.com/massimodeluisa/sidus-tools) | #2 | 54 | 3 |
+| [d-513/grok-bot-nix](https://github.com/d-513/grok-bot-nix) | #2 | 1 | 1 |
+| [armbrain-io/armbrain-cursor-plugin](https://github.com/armbrain-io/armbrain-cursor-plugin) | #2 | 1 | 0 |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | #3 | 65 | 8692 |
+| [amagine-ai/Amagine3D](https://github.com/amagine-ai/Amagine3D) | #3 | 3 | 6300 |
+| [domokane/FinancePy](https://github.com/domokane/FinancePy) | #3 | 80 | 3216 |
+| [aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills) | #3 | 1 | 3084 |
+| [aimeos/upscheme](https://github.com/aimeos/upscheme) | #3 | 1 | 2732 |
+| [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) | #3 | 2 | 2443 |
+| [a466350665/smart-sso](https://github.com/a466350665/smart-sso) | #3 | 1 | 2300 |
+| [52CV/CV-Surveys](https://github.com/52CV/CV-Surveys) | #3 | 1 | 2251 |
+| [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) | #3 | 1 | 1683 |
+| [zhtyyx/ioe](https://github.com/zhtyyx/ioe) | #3 | 5 | 1637 |
+| [422658476/MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) | #3 | 1 | 1452 |
+| [291-Group/LAN-Orangutan](https://github.com/291-Group/LAN-Orangutan) | #3 | 2 | 1150 |
+| [AndersonBY/vector-vein](https://github.com/AndersonBY/vector-vein) | #3 | 1 | 942 |
+| [doriaxengine/doriax](https://github.com/doriaxengine/doriax) | #3 | 8 | 910 |
+| [ankane/vue-chartkick](https://github.com/ankane/vue-chartkick) | #3 | 1 | 748 |
+| [revoframework/Revo](https://github.com/revoframework/Revo) | #3 | 8 | 717 |
+| [DamianEdwards/RazorSlices](https://github.com/DamianEdwards/RazorSlices) | #3 | 2 | 593 |
+| [debanjandhar12/logseq-anki-sync](https://github.com/debanjandhar12/logseq-anki-sync) | #3 | 2 | 589 |
+| [Knowledgator/GLiClass](https://github.com/Knowledgator/GLiClass) | #3 | 3 | 579 |
+| [bytedance/vArmor](https://github.com/bytedance/vArmor) | #3 | 7 | 514 |
+| [davtur19/DotGit](https://github.com/davtur19/DotGit) | #3 | 4 | 483 |
+| [Zefan-Cai/Open-Jev](https://github.com/Zefan-Cai/Open-Jev) | #3 | 4 | 444 |
+| [lazamar/nix-package-versions](https://github.com/lazamar/nix-package-versions) | #3 | 2 | 436 |
+| [cwinvestments/memstack](https://github.com/cwinvestments/memstack) | #3 | 1 | 429 |
+| [stafyniaksacha/unplugin-fonts](https://github.com/stafyniaksacha/unplugin-fonts) | #3 | 4 | 429 |
+| [hassio-addons/app-aircast](https://github.com/hassio-addons/app-aircast) | #3 | 1 | 410 |
+| [dayflow-js/BlossomColorPicker](https://github.com/dayflow-js/BlossomColorPicker) | #3 | 1 | 402 |
+| [malevrigns/agent-jev](https://github.com/malevrigns/agent-jev) | #3 | 1 | 396 |
+| [Cyxuan0311/PNANA](https://github.com/Cyxuan0311/PNANA) | #3 | 2 | 328 |
+| [appleple/smartblock](https://github.com/appleple/smartblock) | #3 | 1 | 317 |
+| [RomanSlack/jev-drone](https://github.com/RomanSlack/jev-drone) | #3 | 1 | 298 |
+| [ipenywis/laya-ultrafast](https://github.com/ipenywis/laya-ultrafast) | #3 | 1 | 267 |
+| [zilliztech/vector-graph-rag](https://github.com/zilliztech/vector-graph-rag) | #3 | 1 | 265 |
+| [d3x0r/JSON6](https://github.com/d3x0r/JSON6) | #3 | 6 | 242 |
+| [brainstormity/Jev-X-Sentiment-Analysis](https://github.com/brainstormity/Jev-X-Sentiment-Analysis) | #3 | 1 | 229 |
+| [dreamtheater123/Awesome-SpeechLM-Survey](https://github.com/dreamtheater123/Awesome-SpeechLM-Survey) | #3 | 1 | 226 |
+| [d-wasserman/Complete_Street_Rule](https://github.com/d-wasserman/Complete_Street_Rule) | #3 | 1 | 218 |
+| [antonbabenko/terraform-docs-as-pdf](https://github.com/antonbabenko/terraform-docs-as-pdf) | #3 | 1 | 210 |
+| [1parado/grok-build-switch](https://github.com/1parado/grok-build-switch) | #3 | 19 | 206 |
+| [donghao51/Awesome-Multimodal-Adaptation](https://github.com/donghao51/Awesome-Multimodal-Adaptation) | #3 | 1 | 195 |
+| [dimtass/DSP-Cpp-filters](https://github.com/dimtass/DSP-Cpp-filters) | #3 | 3 | 188 |
+| [anirudhbiyani/findmytakeover](https://github.com/anirudhbiyani/findmytakeover) | #3 | 1 | 179 |
+| [csinva/imodelsX](https://github.com/csinva/imodelsX) | #3 | 4 | 177 |
+| [anderseknert/kube-review](https://github.com/anderseknert/kube-review) | #3 | 1 | 161 |
+| [andriy-git/stocksTUI](https://github.com/andriy-git/stocksTUI) | #3 | 1 | 160 |
+| [dahlia/cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms) | #3 | 2 | 160 |
+| [aelew/devterms](https://github.com/aelew/devterms) | #3 | 1 | 156 |
+| [DanielCardonaRojas/codemark](https://github.com/DanielCardonaRojas/codemark) | #3 | 1 | 138 |
+| [daseinlabs/open-jev](https://github.com/daseinlabs/open-jev) | #3 | 1 | 135 |
+| [andrei-tatar/node-red-contrib-smartnora](https://github.com/andrei-tatar/node-red-contrib-smartnora) | #3 | 1 | 113 |
+| [ParisNeo/lollms](https://github.com/ParisNeo/lollms) | #3 | 1 | 106 |
+| [kuan-er/sjtu-agent](https://github.com/kuan-er/sjtu-agent) | #3 | 25 | 104 |
+| [00200200/maintainer-skills-lab](https://github.com/00200200/maintainer-skills-lab) | #3 | 3 | 48 |
+| [bytedance/UniVR](https://github.com/bytedance/UniVR) | #3 | 2 | 33 |
+| [Pico-Developer/SpatialMP4](https://github.com/Pico-Developer/SpatialMP4) | #3 | 1 | 22 |
+| [divo12/awesome-grok-bot-templates](https://github.com/divo12/awesome-grok-bot-templates) | #3 | 1 | 4 |
+| [wendyLei0620/CS4248-Memesense](https://github.com/wendyLei0620/CS4248-Memesense) | #3 | 3 | 1 |
+| [blader/humanizer](https://github.com/blader/humanizer) | #4 | 2 | 65532 |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | #4 | 70 | 55817 |
+| [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | #4 | 1 | 13027 |
+| [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) | #4 | 1 | 7139 |
+| [ankane/production_rails](https://github.com/ankane/production_rails) | #4 | 1 | 2328 |
+| [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) | #4 | 2 | 1886 |
+| [ron190/jsql-injection](https://github.com/ron190/jsql-injection) | #4 | 1 | 1789 |
+| [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) | #4 | 2 | 1457 |
+| [stoolap/stoolap](https://github.com/stoolap/stoolap) | #4 | 1 | 1248 |
+| [reversenseorg/dexcalibur](https://github.com/reversenseorg/dexcalibur) | #4 | 3 | 1187 |
+| [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow) | #4 | 1 | 958 |
+| [coldteadotai/abide](https://github.com/coldteadotai/abide) | #4 | 2 | 623 |
+| [junegunn/vim-emoji](https://github.com/junegunn/vim-emoji) | #4 | 1 | 615 |
+| [Kikobeats/awesome-network-js](https://github.com/Kikobeats/awesome-network-js) | #4 | 1 | 585 |
+| [deeplay-io/nice-grpc](https://github.com/deeplay-io/nice-grpc) | #4 | 2 | 539 |
+| [msp1974/ViewAssist_Companion_App](https://github.com/msp1974/ViewAssist_Companion_App) | #4 | 2 | 524 |
+| [CScorza/OSINTAnonymous](https://github.com/CScorza/OSINTAnonymous) | #4 | 1 | 476 |
+| [alexruperez/SecurePropertyStorage](https://github.com/alexruperez/SecurePropertyStorage) | #4 | 1 | 471 |
+| [agitter/single-cell-pseudotime](https://github.com/agitter/single-cell-pseudotime) | #4 | 1 | 446 |
+| [notque/vexjoy-agent](https://github.com/notque/vexjoy-agent) | #4 | 2 | 446 |
+| [a-agmon/rs-graph-llm](https://github.com/a-agmon/rs-graph-llm) | #4 | 1 | 386 |
+| [jkudish/jev-browser](https://github.com/jkudish/jev-browser) | #4 | 1 | 367 |
+| [datnguye/dbterd](https://github.com/datnguye/dbterd) | #4 | 4 | 348 |
+| [BugeStudioTeam/Buge-App-Manager](https://github.com/BugeStudioTeam/Buge-App-Manager) | #4 | 1 | 332 |
+| [AmplifyCreations/AmplifyOcclusion](https://github.com/AmplifyCreations/AmplifyOcclusion) | #4 | 1 | 329 |
+| [abersheeran/kui](https://github.com/abersheeran/kui) | #4 | 1 | 297 |
+| [dongyubin/Awesome-AI-Images-Prompts](https://github.com/dongyubin/Awesome-AI-Images-Prompts) | #4 | 1 | 294 |
+| [darrenldl/docfd](https://github.com/darrenldl/docfd) | #4 | 1 | 292 |
+| [AngelJumbo/sssnake](https://github.com/AngelJumbo/sssnake) | #4 | 1 | 235 |
+| [bytedance/PatchEval](https://github.com/bytedance/PatchEval) | #4 | 2 | 235 |
+| [alexmyczko/ruptime](https://github.com/alexmyczko/ruptime) | #4 | 1 | 213 |
+| [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) | #4 | 1 | 197 |
+| [diegofrata/Generator.Equals](https://github.com/diegofrata/Generator.Equals) | #4 | 3 | 193 |
+| [antimony-lang/antimony](https://github.com/antimony-lang/antimony) | #4 | 1 | 171 |
+| [88250/gulu](https://github.com/88250/gulu) | #4 | 1 | 157 |
+| [ajinabraham/libsast](https://github.com/ajinabraham/libsast) | #4 | 1 | 138 |
+| [dpt/The-Great-Escape-in-C](https://github.com/dpt/The-Great-Escape-in-C) | #4 | 1 | 133 |
+| [2BAD/bitrix](https://github.com/2BAD/bitrix) | #4 | 1 | 111 |
+| [astrelsky/GhidraOrbis](https://github.com/astrelsky/GhidraOrbis) | #4 | 5 | 98 |
+| [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop) | #5 | 1 | 5971 |
+| [tinyplex/tinybase](https://github.com/tinyplex/tinybase) | #5 | 5 | 5211 |
+| [Codepoints/awesome-codepoints](https://github.com/Codepoints/awesome-codepoints) | #5 | 1 | 779 |
+| [d3-node/d3-node](https://github.com/d3-node/d3-node) | #5 | 1 | 684 |
+| [dorumrr/de1984](https://github.com/dorumrr/de1984) | #5 | 1 | 500 |
+| [accelerated-text/awesome-nlg](https://github.com/accelerated-text/awesome-nlg) | #5 | 1 | 483 |
+| [daac-tools/vibrato](https://github.com/daac-tools/vibrato) | #5 | 1 | 428 |
+| [ualex73/monitor_docker](https://github.com/ualex73/monitor_docker) | #5 | 4 | 417 |
+| [cybergarage/cybergarage-upnp](https://github.com/cybergarage/cybergarage-upnp) | #5 | 2 | 410 |
+| [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme) | #5 | 1 | 352 |
+| [LastOliveGames/becsy](https://github.com/LastOliveGames/becsy) | #5 | 1 | 299 |
+| [custom-cards/flex-table-card](https://github.com/custom-cards/flex-table-card) | #5 | 3 | 282 |
+| [dalisoft/awesome-storage](https://github.com/dalisoft/awesome-storage) | #5 | 1 | 269 |
+| [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) | #5 | 1 | 198 |
+| [aaronrussell/ollama-ex](https://github.com/aaronrussell/ollama-ex) | #5 | 1 | 137 |
