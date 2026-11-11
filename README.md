@@ -21,19 +21,20 @@ Building agent workflows and scientific interfaces, with upstream fixes for runt
 
 ### Projects where I’m a top contributor
 
-Featured projects rechecked on 2026-11-11 UTC using the GitHub Contributors API (including bots). Each has at least 5 attributed commits and a top-five position. The broader 779-repository census remains dated 2026-11-06; this refresh covers the previously featured projects.
+**GitHub #1** · [RevoltSecurities/Subdominator](https://github.com/RevoltSecurities/Subdominator/graphs/contributors) (9 commits)
 
-**GitHub #1** · [RevoltSecurities/Subdominator](https://github.com/RevoltSecurities/Subdominator/graphs/contributors) (814 ★ · 9 commits)
+**GitHub #2** · [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI/graphs/contributors) (272 commits) · [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP/graphs/contributors) (12 commits) · [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell/graphs/contributors) (7 commits) · [lateralblast/lunar](https://github.com/lateralblast/lunar/graphs/contributors) (54 commits) · [massimodeluisa/sidus-tools](https://github.com/massimodeluisa/sidus-tools/graphs/contributors) (54 commits)
 
-**GitHub #2** · [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP/graphs/contributors) (3,874 ★ · 12 commits) · [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell/graphs/contributors) (1,306 ★ · 7 commits) · [lateralblast/lunar](https://github.com/lateralblast/lunar/graphs/contributors) (317 ★ · 54 commits) · [massimodeluisa/sidus-tools](https://github.com/massimodeluisa/sidus-tools/graphs/contributors) (3 ★ · 54 commits)
+**GitHub #3** · [mvschwarz/openrig](https://github.com/mvschwarz/openrig/graphs/contributors) (69 commits) · [domokane/FinancePy](https://github.com/domokane/FinancePy/graphs/contributors) (80 commits) · [zhtyyx/ioe](https://github.com/zhtyyx/ioe/graphs/contributors) (5 commits) · [doriaxengine/doriax](https://github.com/doriaxengine/doriax/graphs/contributors) (8 commits) · [revoframework/Revo](https://github.com/revoframework/Revo/graphs/contributors) (8 commits) · [bytedance/vArmor](https://github.com/bytedance/vArmor/graphs/contributors) (7 commits) · [d3x0r/JSON6](https://github.com/d3x0r/JSON6/graphs/contributors) (6 commits) · [1parado/grok-build-switch](https://github.com/1parado/grok-build-switch/graphs/contributors) (19 commits) · [kuan-er/sjtu-agent](https://github.com/kuan-er/sjtu-agent/graphs/contributors) (25 commits)
 
-**GitHub #3** · [mvschwarz/openrig](https://github.com/mvschwarz/openrig/graphs/contributors) (8,815 ★ · 69 commits) · [domokane/FinancePy](https://github.com/domokane/FinancePy/graphs/contributors) (3,222 ★ · 80 commits) · [zhtyyx/ioe](https://github.com/zhtyyx/ioe/graphs/contributors) (1,638 ★ · 5 commits) · [doriaxengine/doriax](https://github.com/doriaxengine/doriax/graphs/contributors) (917 ★ · 8 commits) · [revoframework/Revo](https://github.com/revoframework/Revo/graphs/contributors) (718 ★ · 8 commits) · [bytedance/vArmor](https://github.com/bytedance/vArmor/graphs/contributors) (516 ★ · 7 commits) · [d3x0r/JSON6](https://github.com/d3x0r/JSON6/graphs/contributors) (242 ★ · 6 commits) · [1parado/grok-build-switch](https://github.com/1parado/grok-build-switch/graphs/contributors) (206 ★ · 19 commits) · [kuan-er/sjtu-agent](https://github.com/kuan-er/sjtu-agent/graphs/contributors) (104 ★ · 25 commits)
+**GitHub #4** · [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor/graphs/contributors) (70 commits) · [astrelsky/GhidraOrbis](https://github.com/astrelsky/GhidraOrbis/graphs/contributors) (5 commits)
 
-**GitHub #4** · [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI/graphs/contributors) (9,333 ★ · 272 commits) · [astrelsky/GhidraOrbis](https://github.com/astrelsky/GhidraOrbis/graphs/contributors) (98 ★ · 5 commits)
+**GitHub #5** · [tinyplex/tinybase](https://github.com/tinyplex/tinybase/graphs/contributors) (5 commits)
 
-**GitHub #5** · [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor/graphs/contributors) (58,112 ★ · 70 commits) · [tinyplex/tinybase](https://github.com/tinyplex/tinybase/graphs/contributors) (5,212 ★ · 5 commits)
 
-<sub>Positions follow the GitHub Contributors API: all-time attributed commits, including bots, with ties in API order. Stars describe repository reach, not personal credit. Coverage starts from the 2026-10-27 merged-PR snapshot, not a current account-wide census.</sub>
+
+
+
 
 [All verified top-five projects](./TOP-CONTRIBUTOR.md) · [API snapshot](./contributor-ranks.json)
 
@@ -88,19 +89,20 @@ TikTok 软件工程实习生 · 新加坡国立大学 DSML 硕士 · 上海交�
 
 ### 贡献者排名前列的项目
 
-精选项目于 2026-11-11（UTC）重新核验 GitHub Contributors API（含机器人）：均有至少 5 个归属 commit，且位居前五。本次刷新此前精选项目；779 库的完整核查仍为 2026-11-06 快照。
+**GitHub #1** · [RevoltSecurities/Subdominator](https://github.com/RevoltSecurities/Subdominator/graphs/contributors) (9 commits)
 
-**GitHub #1** · [RevoltSecurities/Subdominator](https://github.com/RevoltSecurities/Subdominator/graphs/contributors) (814 ★ · 9 commits)
+**GitHub #2** · [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI/graphs/contributors) (272 commits) · [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP/graphs/contributors) (12 commits) · [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell/graphs/contributors) (7 commits) · [lateralblast/lunar](https://github.com/lateralblast/lunar/graphs/contributors) (54 commits) · [massimodeluisa/sidus-tools](https://github.com/massimodeluisa/sidus-tools/graphs/contributors) (54 commits)
 
-**GitHub #2** · [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP/graphs/contributors) (3,874 ★ · 12 commits) · [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell/graphs/contributors) (1,306 ★ · 7 commits) · [lateralblast/lunar](https://github.com/lateralblast/lunar/graphs/contributors) (317 ★ · 54 commits) · [massimodeluisa/sidus-tools](https://github.com/massimodeluisa/sidus-tools/graphs/contributors) (3 ★ · 54 commits)
+**GitHub #3** · [mvschwarz/openrig](https://github.com/mvschwarz/openrig/graphs/contributors) (69 commits) · [domokane/FinancePy](https://github.com/domokane/FinancePy/graphs/contributors) (80 commits) · [zhtyyx/ioe](https://github.com/zhtyyx/ioe/graphs/contributors) (5 commits) · [doriaxengine/doriax](https://github.com/doriaxengine/doriax/graphs/contributors) (8 commits) · [revoframework/Revo](https://github.com/revoframework/Revo/graphs/contributors) (8 commits) · [bytedance/vArmor](https://github.com/bytedance/vArmor/graphs/contributors) (7 commits) · [d3x0r/JSON6](https://github.com/d3x0r/JSON6/graphs/contributors) (6 commits) · [1parado/grok-build-switch](https://github.com/1parado/grok-build-switch/graphs/contributors) (19 commits) · [kuan-er/sjtu-agent](https://github.com/kuan-er/sjtu-agent/graphs/contributors) (25 commits)
 
-**GitHub #3** · [mvschwarz/openrig](https://github.com/mvschwarz/openrig/graphs/contributors) (8,815 ★ · 69 commits) · [domokane/FinancePy](https://github.com/domokane/FinancePy/graphs/contributors) (3,222 ★ · 80 commits) · [zhtyyx/ioe](https://github.com/zhtyyx/ioe/graphs/contributors) (1,638 ★ · 5 commits) · [doriaxengine/doriax](https://github.com/doriaxengine/doriax/graphs/contributors) (917 ★ · 8 commits) · [revoframework/Revo](https://github.com/revoframework/Revo/graphs/contributors) (718 ★ · 8 commits) · [bytedance/vArmor](https://github.com/bytedance/vArmor/graphs/contributors) (516 ★ · 7 commits) · [d3x0r/JSON6](https://github.com/d3x0r/JSON6/graphs/contributors) (242 ★ · 6 commits) · [1parado/grok-build-switch](https://github.com/1parado/grok-build-switch/graphs/contributors) (206 ★ · 19 commits) · [kuan-er/sjtu-agent](https://github.com/kuan-er/sjtu-agent/graphs/contributors) (104 ★ · 25 commits)
+**GitHub #4** · [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor/graphs/contributors) (70 commits) · [astrelsky/GhidraOrbis](https://github.com/astrelsky/GhidraOrbis/graphs/contributors) (5 commits)
 
-**GitHub #4** · [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI/graphs/contributors) (9,333 ★ · 272 commits) · [astrelsky/GhidraOrbis](https://github.com/astrelsky/GhidraOrbis/graphs/contributors) (98 ★ · 5 commits)
+**GitHub #5** · [tinyplex/tinybase](https://github.com/tinyplex/tinybase/graphs/contributors) (5 commits)
 
-**GitHub #5** · [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor/graphs/contributors) (58,112 ★ · 70 commits) · [tinyplex/tinybase](https://github.com/tinyplex/tinybase/graphs/contributors) (5,212 ★ · 5 commits)
 
-<sub>排名按 GitHub Contributors API 累计归属 commit 数及返回顺序（含机器人）；同数先后不表示质量差异。星标属于仓库，不是个人贡献量。核查范围来自 2026-10-27 已合并 PR 快照，不代表当前账号全量。</sub>
+
+
+
 
 [全部已核实的前五项目](./TOP-CONTRIBUTOR.md) · [精选项目最新快照](./featured-refresh.json)
 
