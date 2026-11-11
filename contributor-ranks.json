@@ -1,6 +1,6 @@
 {
   "capturedAt": "2026-11-06T15:59:27.490Z",
-  "scope": "External repositories in the 2026-10-27 public merged-PR snapshot. GitHub Contributors API first five entries, ordered by all-time attributed commit count; API order breaks ties. Excludes owned and fork repositories from presentation. Not an account-wide census.",
+  "scope": "External repositories in the 2026-10-27 public merged-PR snapshot. GitHub Contributors API first five entries, with accounts whose login ends in [bot] excluded and remaining contributors reranked by attributed commit count; API order breaks ties. Excludes owned and fork repositories from presentation. Not an account-wide census.",
   "total": 779,
   "checked": 779,
   "results": [
@@ -10,7 +10,7 @@
     },
     {
       "repository": "MervinPraison/PraisonAI",
-      "rank": 4,
+      "rank": 2,
       "contributions": 272,
       "stars": 9322,
       "fork": false,
@@ -24,23 +24,12 @@
           "contributions": 5543
         },
         {
-          "login": "praisonai-triage-agent[bot]",
-          "contributions": 3996
-        },
-        {
-          "login": "github-actions[bot]",
-          "contributions": 277
-        },
-        {
           "login": "dajiaohuang",
           "contributions": 272
-        },
-        {
-          "login": "claude[bot]",
-          "contributions": 219
         }
       ],
-      "checkedAt": "2026-11-06T15:57:55.003Z"
+      "checkedAt": "2026-11-06T15:57:55.003Z",
+      "botExcludedContributorCount": 3
     },
     {
       "repository": "lateralblast/lunar",
@@ -74,7 +63,8 @@
           "contributions": 7
         }
       ],
-      "checkedAt": "2026-11-06T15:57:55.017Z"
+      "checkedAt": "2026-11-06T15:57:55.017Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "domokane/FinancePy",
@@ -108,11 +98,12 @@
           "contributions": 28
         }
       ],
-      "checkedAt": "2026-11-06T15:57:55.019Z"
+      "checkedAt": "2026-11-06T15:57:55.019Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "HKUDS/DeepTutor",
-      "rank": 5,
+      "rank": 4,
       "contributions": 70,
       "stars": 55817,
       "fork": false,
@@ -130,10 +121,6 @@
           "contributions": 116
         },
         {
-          "login": "github-actions[bot]",
-          "contributions": 108
-        },
-        {
           "login": "evan188199-tech",
           "contributions": 84
         },
@@ -142,7 +129,8 @@
           "contributions": 70
         }
       ],
-      "checkedAt": "2026-11-06T15:57:55.074Z"
+      "checkedAt": "2026-11-06T15:57:55.074Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "massimodeluisa/sidus-tools",
@@ -168,7 +156,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:57:55.544Z"
+      "checkedAt": "2026-11-06T15:57:55.544Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "revive-lint/revive",
@@ -210,7 +199,8 @@
           "contributions": 38
         }
       ],
-      "checkedAt": "2026-11-06T15:57:55.822Z"
+      "checkedAt": "2026-11-06T15:57:55.822Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "doocs/leetcode",
@@ -264,7 +254,8 @@
           "contributions": 4
         }
       ],
-      "checkedAt": "2026-11-06T15:57:56.426Z"
+      "checkedAt": "2026-11-06T15:57:56.426Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "HKUDS/nanobot",
@@ -312,13 +303,10 @@
         {
           "login": "hobostay",
           "contributions": 6
-        },
-        {
-          "login": "github-actions[bot]",
-          "contributions": 5
         }
       ],
-      "checkedAt": "2026-11-06T15:57:57.471Z"
+      "checkedAt": "2026-11-06T15:57:57.471Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "doriaxengine/doriax",
@@ -352,7 +340,8 @@
           "contributions": 3
         }
       ],
-      "checkedAt": "2026-11-06T15:57:57.567Z"
+      "checkedAt": "2026-11-06T15:57:57.567Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "lasantosr/intelli-shell",
@@ -386,7 +375,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:57:57.647Z"
+      "checkedAt": "2026-11-06T15:57:57.647Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "RevoltSecurities/Subdominator",
@@ -420,7 +410,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:57:57.889Z"
+      "checkedAt": "2026-11-06T15:57:57.889Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "d3x0r/JSON6",
@@ -454,7 +445,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:57:57.898Z"
+      "checkedAt": "2026-11-06T15:57:57.898Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "puppeteer/puppeteer",
@@ -518,13 +510,10 @@
         {
           "login": "martinadam511",
           "contributions": 2
-        },
-        {
-          "login": "dependabot[bot]",
-          "contributions": 2
         }
       ],
-      "checkedAt": "2026-11-06T15:57:58.917Z"
+      "checkedAt": "2026-11-06T15:57:58.917Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "affaan-m/ECC",
@@ -570,7 +559,8 @@
           "contributions": 3
         }
       ],
-      "checkedAt": "2026-11-06T15:57:59.790Z"
+      "checkedAt": "2026-11-06T15:57:59.790Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "tinyplex/tinybase",
@@ -604,7 +594,8 @@
           "contributions": 5
         }
       ],
-      "checkedAt": "2026-11-06T15:57:59.819Z"
+      "checkedAt": "2026-11-06T15:57:59.819Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "firebase/firebase-ios-sdk",
@@ -612,7 +603,7 @@
     },
     {
       "repository": "datnguye/dbterd",
-      "rank": 5,
+      "rank": 4,
       "contributions": 4,
       "stars": 348,
       "fork": false,
@@ -630,10 +621,6 @@
           "contributions": 53
         },
         {
-          "login": "dependabot[bot]",
-          "contributions": 12
-        },
-        {
           "login": "syou6162",
           "contributions": 6
         },
@@ -642,7 +629,8 @@
           "contributions": 4
         }
       ],
-      "checkedAt": "2026-11-06T15:58:00.029Z"
+      "checkedAt": "2026-11-06T15:58:00.029Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "davtur19/DotGit",
@@ -676,7 +664,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:00.059Z"
+      "checkedAt": "2026-11-06T15:58:00.059Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "HKUDS/Vibe-Trading",
@@ -722,7 +711,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:00.846Z"
+      "checkedAt": "2026-11-06T15:58:00.846Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "ualex73/monitor_docker",
@@ -756,7 +746,8 @@
           "contributions": 4
         }
       ],
-      "checkedAt": "2026-11-06T15:58:00.995Z"
+      "checkedAt": "2026-11-06T15:58:00.995Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "volcengine/OpenViking",
@@ -794,7 +785,8 @@
           "contributions": 2
         }
       ],
-      "checkedAt": "2026-11-06T15:58:01.446Z"
+      "checkedAt": "2026-11-06T15:58:01.446Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "AlexxIT/YandexStation",
@@ -822,13 +814,10 @@
         {
           "login": "dajiaohuang",
           "contributions": 3
-        },
-        {
-          "login": "dependabot[bot]",
-          "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:01.729Z"
+      "checkedAt": "2026-11-06T15:58:01.729Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "armory3d/armorpaint",
@@ -858,7 +847,8 @@
           "contributions": 2
         }
       ],
-      "checkedAt": "2026-11-06T15:58:02.029Z"
+      "checkedAt": "2026-11-06T15:58:02.029Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "ax-llm/ax",
@@ -940,7 +930,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:03.779Z"
+      "checkedAt": "2026-11-06T15:58:03.779Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "DirectoryLister/DirectoryLister",
@@ -982,7 +973,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:04.105Z"
+      "checkedAt": "2026-11-06T15:58:04.105Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "cyberchitta/llm-context.py",
@@ -1016,7 +1008,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:04.108Z"
+      "checkedAt": "2026-11-06T15:58:04.108Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "Dyalog/link",
@@ -1054,7 +1047,8 @@
           "contributions": 2
         }
       ],
-      "checkedAt": "2026-11-06T15:58:04.541Z"
+      "checkedAt": "2026-11-06T15:58:04.541Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "iipc/awesome-web-archiving",
@@ -1062,7 +1056,7 @@
     },
     {
       "repository": "doocs/jvm",
-      "rank": 3,
+      "rank": 2,
       "contributions": 3,
       "stars": 11129,
       "fork": false,
@@ -1074,10 +1068,6 @@
         {
           "login": "yanglbme",
           "contributions": 162
-        },
-        {
-          "login": "dependabot[bot]",
-          "contributions": 4
         },
         {
           "login": "dajiaohuang",
@@ -1092,7 +1082,8 @@
           "contributions": 2
         }
       ],
-      "checkedAt": "2026-11-06T15:58:04.807Z"
+      "checkedAt": "2026-11-06T15:58:04.807Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "kuan-er/sjtu-agent",
@@ -1126,7 +1117,8 @@
           "contributions": 4
         }
       ],
-      "checkedAt": "2026-11-06T15:58:05.089Z"
+      "checkedAt": "2026-11-06T15:58:05.089Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "public-apis/public-apis",
@@ -1168,7 +1160,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:05.154Z"
+      "checkedAt": "2026-11-06T15:58:05.154Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "laserdisc-io/fs2-aws",
@@ -1218,7 +1211,8 @@
           "contributions": 2
         }
       ],
-      "checkedAt": "2026-11-06T15:58:05.955Z"
+      "checkedAt": "2026-11-06T15:58:05.955Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "rohitg00/ai-engineering-from-scratch",
@@ -1264,7 +1258,8 @@
           "contributions": 3
         }
       ],
-      "checkedAt": "2026-11-06T15:58:06.550Z"
+      "checkedAt": "2026-11-06T15:58:06.550Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "8LWXpg/PowerToysRun-GitHubRepo",
@@ -1298,7 +1293,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:06.720Z"
+      "checkedAt": "2026-11-06T15:58:06.720Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "ahkscript/awesome-AutoHotkey",
@@ -1310,7 +1306,7 @@
     },
     {
       "repository": "aaronjmars/web3-research-mcp",
-      "rank": 4,
+      "rank": 2,
       "contributions": 2,
       "stars": 171,
       "fork": false,
@@ -1324,14 +1320,6 @@
           "contributions": 55
         },
         {
-          "login": "dependabot[bot]",
-          "contributions": 33
-        },
-        {
-          "login": "smithery[bot]",
-          "contributions": 3
-        },
-        {
           "login": "dajiaohuang",
           "contributions": 2
         },
@@ -1340,7 +1328,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:06.892Z"
+      "checkedAt": "2026-11-06T15:58:06.892Z",
+      "botExcludedContributorCount": 2
     },
     {
       "repository": "akitaonrails/ai-memory",
@@ -1372,7 +1361,7 @@
     },
     {
       "repository": "alsk1992/CloddsBot",
-      "rank": 3,
+      "rank": 2,
       "contributions": 2,
       "stars": 3078,
       "fork": false,
@@ -1386,10 +1375,6 @@
           "contributions": 443
         },
         {
-          "login": "dependabot[bot]",
-          "contributions": 6
-        },
-        {
           "login": "dajiaohuang",
           "contributions": 2
         },
@@ -1398,7 +1383,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:07.622Z"
+      "checkedAt": "2026-11-06T15:58:07.622Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "bencheeorg/benchee",
@@ -1448,7 +1434,8 @@
           "contributions": 2
         }
       ],
-      "checkedAt": "2026-11-06T15:58:08.772Z"
+      "checkedAt": "2026-11-06T15:58:08.772Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "blader/humanizer",
@@ -1482,7 +1469,8 @@
           "contributions": 2
         }
       ],
-      "checkedAt": "2026-11-06T15:58:08.934Z"
+      "checkedAt": "2026-11-06T15:58:08.934Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "bytedance/UniVR",
@@ -1508,7 +1496,8 @@
           "contributions": 2
         }
       ],
-      "checkedAt": "2026-11-06T15:58:09.211Z"
+      "checkedAt": "2026-11-06T15:58:09.211Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "career-ops-hq/career-ops",
@@ -1550,7 +1539,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:09.504Z"
+      "checkedAt": "2026-11-06T15:58:09.504Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "Crosstalk-Solutions/project-nomad",
@@ -1628,11 +1618,12 @@
           "contributions": 2
         }
       ],
-      "checkedAt": "2026-11-06T15:58:11.021Z"
+      "checkedAt": "2026-11-06T15:58:11.021Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "Cyclenerd/google-cloud-pricing-cost-calculator",
-      "rank": 4,
+      "rank": 2,
       "contributions": 2,
       "stars": 222,
       "fork": false,
@@ -1641,14 +1632,6 @@
       "url": "https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator",
       "contributorsUrl": "https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator/graphs/contributors",
       "topContributors": [
-        {
-          "login": "github-actions[bot]",
-          "contributions": 1306
-        },
-        {
-          "login": "dependabot[bot]",
-          "contributions": 310
-        },
         {
           "login": "Cyclenerd",
           "contributions": 107
@@ -1662,7 +1645,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:11.134Z"
+      "checkedAt": "2026-11-06T15:58:11.134Z",
+      "botExcludedContributorCount": 2
     },
     {
       "repository": "d-krupke/cpsat-primer",
@@ -1700,7 +1684,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:11.429Z"
+      "checkedAt": "2026-11-06T15:58:11.429Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "dagrejs/dagre",
@@ -1730,7 +1715,8 @@
           "contributions": 2
         }
       ],
-      "checkedAt": "2026-11-06T15:58:11.904Z"
+      "checkedAt": "2026-11-06T15:58:11.904Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "danielaparker/jsoncons",
@@ -1772,7 +1758,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:12.157Z"
+      "checkedAt": "2026-11-06T15:58:12.157Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "dankogai/js-base64",
@@ -1780,7 +1767,7 @@
     },
     {
       "repository": "DamianEdwards/RazorSlices",
-      "rank": 4,
+      "rank": 3,
       "contributions": 2,
       "stars": 593,
       "fork": false,
@@ -1792,10 +1779,6 @@
         {
           "login": "DamianEdwards",
           "contributions": 105
-        },
-        {
-          "login": "dependabot[bot]",
-          "contributions": 4
         },
         {
           "login": "flew2bits",
@@ -1810,7 +1793,8 @@
           "contributions": 2
         }
       ],
-      "checkedAt": "2026-11-06T15:58:12.473Z"
+      "checkedAt": "2026-11-06T15:58:12.473Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "dankelley/oce",
@@ -1826,7 +1810,7 @@
     },
     {
       "repository": "dash14/v-network-graph",
-      "rank": 3,
+      "rank": 2,
       "contributions": 2,
       "stars": 647,
       "fork": false,
@@ -1838,10 +1822,6 @@
         {
           "login": "dash14",
           "contributions": 1268
-        },
-        {
-          "login": "renovate[bot]",
-          "contributions": 32
         },
         {
           "login": "dajiaohuang",
@@ -1856,7 +1836,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:13.191Z"
+      "checkedAt": "2026-11-06T15:58:13.191Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "darrachequesne/spring-data-jpa-datatables",
@@ -1890,7 +1871,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:13.417Z"
+      "checkedAt": "2026-11-06T15:58:13.417Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "dave3d/dicom2stl",
@@ -1924,7 +1906,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:13.474Z"
+      "checkedAt": "2026-11-06T15:58:13.474Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "debanjandhar12/logseq-anki-sync",
@@ -1958,7 +1941,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:13.569Z"
+      "checkedAt": "2026-11-06T15:58:13.569Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "disposable-email-domains/disposable-email-domains",
@@ -1966,7 +1950,7 @@
     },
     {
       "repository": "deeplay-io/nice-grpc",
-      "rank": 5,
+      "rank": 4,
       "contributions": 2,
       "stars": 539,
       "fork": false,
@@ -1975,10 +1959,6 @@
       "url": "https://github.com/deeplay-io/nice-grpc",
       "contributorsUrl": "https://github.com/deeplay-io/nice-grpc/graphs/contributors",
       "topContributors": [
-        {
-          "login": "dependabot[bot]",
-          "contributions": 450
-        },
         {
           "login": "aikoven",
           "contributions": 233
@@ -1996,7 +1976,8 @@
           "contributions": 2
         }
       ],
-      "checkedAt": "2026-11-06T15:58:13.895Z"
+      "checkedAt": "2026-11-06T15:58:13.895Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "dvershinin/gixy",
@@ -2012,7 +1993,7 @@
     },
     {
       "repository": "DosX-dev/obfus.h",
-      "rank": 5,
+      "rank": 4,
       "contributions": 2,
       "stars": 1886,
       "fork": false,
@@ -2024,10 +2005,6 @@
         {
           "login": "DosX-dev",
           "contributions": 398
-        },
-        {
-          "login": "github-actions[bot]",
-          "contributions": 28
         },
         {
           "login": "horsicq",
@@ -2042,7 +2019,8 @@
           "contributions": 2
         }
       ],
-      "checkedAt": "2026-11-06T15:58:14.172Z"
+      "checkedAt": "2026-11-06T15:58:14.172Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "elixir-broadway/broadway",
@@ -2074,7 +2052,7 @@
     },
     {
       "repository": "jaimetur/PhotoMigrator",
-      "rank": 3,
+      "rank": 2,
       "contributions": 3,
       "stars": 268,
       "fork": false,
@@ -2086,10 +2064,6 @@
         {
           "login": "jaimetur",
           "contributions": 5628
-        },
-        {
-          "login": "github-actions[bot]",
-          "contributions": 197
         },
         {
           "login": "dajiaohuang",
@@ -2104,7 +2078,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:15.476Z"
+      "checkedAt": "2026-11-06T15:58:15.476Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "Lawouach/WebSocket-for-Python",
@@ -2134,19 +2109,16 @@
           "contributions": 1
         },
         {
-          "login": "google-labs-jules[bot]",
-          "contributions": 1
-        },
-        {
           "login": "per1234",
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:15.651Z"
+      "checkedAt": "2026-11-06T15:58:15.651Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "Lavmee/constraintlayout-compose-multiplatform",
-      "rank": 3,
+      "rank": 2,
       "contributions": 2,
       "stars": 309,
       "fork": false,
@@ -2160,10 +2132,6 @@
           "contributions": 270
         },
         {
-          "login": "dependabot[bot]",
-          "contributions": 31
-        },
-        {
           "login": "dajiaohuang",
           "contributions": 2
         },
@@ -2172,7 +2140,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:15.753Z"
+      "checkedAt": "2026-11-06T15:58:15.753Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "lbbrhzn/ocpp",
@@ -2214,7 +2183,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:16.126Z"
+      "checkedAt": "2026-11-06T15:58:16.126Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "melgarafael/DeskcommCRM",
@@ -2264,7 +2234,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:16.665Z"
+      "checkedAt": "2026-11-06T15:58:16.665Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "Mapika/decider",
@@ -2290,7 +2261,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:16.782Z"
+      "checkedAt": "2026-11-06T15:58:16.782Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "notque/vexjoy-agent",
@@ -2318,13 +2290,10 @@
         {
           "login": "dajiaohuang",
           "contributions": 2
-        },
-        {
-          "login": "dependabot[bot]",
-          "contributions": 2
         }
       ],
-      "checkedAt": "2026-11-06T15:58:16.973Z"
+      "checkedAt": "2026-11-06T15:58:16.973Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "pascalorg/editor",
@@ -2434,7 +2403,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:18.926Z"
+      "checkedAt": "2026-11-06T15:58:18.926Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "0b01001001/spectree",
@@ -2492,7 +2462,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:19.950Z"
+      "checkedAt": "2026-11-06T15:58:19.950Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "188080501/JQTools",
@@ -2542,7 +2513,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:21.044Z"
+      "checkedAt": "2026-11-06T15:58:21.044Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "2KAbhishek/tmux2k",
@@ -2584,7 +2556,8 @@
           "contributions": 2
         }
       ],
-      "checkedAt": "2026-11-06T15:58:21.544Z"
+      "checkedAt": "2026-11-06T15:58:21.544Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "3dmol/3Dmol.js",
@@ -2592,7 +2565,7 @@
     },
     {
       "repository": "2BAD/bitrix",
-      "rank": 5,
+      "rank": 4,
       "contributions": 1,
       "stars": 111,
       "fork": false,
@@ -2610,10 +2583,6 @@
           "contributions": 206
         },
         {
-          "login": "renovate[bot]",
-          "contributions": 92
-        },
-        {
           "login": "newsiberian",
           "contributions": 1
         },
@@ -2622,7 +2591,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:21.714Z"
+      "checkedAt": "2026-11-06T15:58:21.714Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "34892002/bilibili-mcp-js",
@@ -2656,7 +2626,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:21.773Z"
+      "checkedAt": "2026-11-06T15:58:21.773Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "42paris/42header",
@@ -2706,7 +2677,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:22.790Z"
+      "checkedAt": "2026-11-06T15:58:22.790Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "777genius/agent-notifications",
@@ -2740,7 +2712,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:23.107Z"
+      "checkedAt": "2026-11-06T15:58:23.107Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "88250/pipe",
@@ -2774,7 +2747,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:23.483Z"
+      "checkedAt": "2026-11-06T15:58:23.483Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "88250/gulu",
@@ -2808,7 +2782,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:23.606Z"
+      "checkedAt": "2026-11-06T15:58:23.606Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "a-r-j/graphein",
@@ -2854,7 +2829,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:24.304Z"
+      "checkedAt": "2026-11-06T15:58:24.304Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "aaronhma/awesome-tensorflow-js",
@@ -2866,7 +2842,7 @@
     },
     {
       "repository": "aaron-he-zhu/aaron-marketing-skills",
-      "rank": 4,
+      "rank": 3,
       "contributions": 1,
       "stars": 3084,
       "fork": false,
@@ -2875,10 +2851,6 @@
       "url": "https://github.com/aaron-he-zhu/aaron-marketing-skills",
       "contributorsUrl": "https://github.com/aaron-he-zhu/aaron-marketing-skills/graphs/contributors",
       "topContributors": [
-        {
-          "login": "github-actions[bot]",
-          "contributions": 395
-        },
         {
           "login": "aaron-he-zhu",
           "contributions": 194
@@ -2892,7 +2864,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:24.504Z"
+      "checkedAt": "2026-11-06T15:58:24.504Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "a466350665/smart-sso",
@@ -2922,7 +2895,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:24.772Z"
+      "checkedAt": "2026-11-06T15:58:24.772Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "abarichello/godot-ci",
@@ -2992,7 +2966,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:25.840Z"
+      "checkedAt": "2026-11-06T15:58:25.840Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "academic/awesome-datascience",
@@ -3028,13 +3003,10 @@
         {
           "login": "dajiaohuang",
           "contributions": 1
-        },
-        {
-          "login": "dependabot[bot]",
-          "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:26.365Z"
+      "checkedAt": "2026-11-06T15:58:26.365Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "AchoArnold/discount-for-student-dev",
@@ -3064,7 +3036,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:26.516Z"
+      "checkedAt": "2026-11-06T15:58:26.516Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "ACL4SSR/ACL4SSR",
@@ -3102,7 +3075,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:26.764Z"
+      "checkedAt": "2026-11-06T15:58:26.764Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "ad-m/github-push-action",
@@ -3136,7 +3110,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:27.183Z"
+      "checkedAt": "2026-11-06T15:58:27.183Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "adept/full-fledged-hledger",
@@ -3162,7 +3137,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:27.416Z"
+      "checkedAt": "2026-11-06T15:58:27.416Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "addyosmani/agent-skills",
@@ -3206,7 +3182,7 @@
     },
     {
       "repository": "admpub/nging",
-      "rank": 4,
+      "rank": 2,
       "contributions": 1,
       "stars": 1599,
       "fork": false,
@@ -3220,19 +3196,12 @@
           "contributions": 6119
         },
         {
-          "login": "dependabot[bot]",
-          "contributions": 67
-        },
-        {
-          "login": "dependabot-preview[bot]",
-          "contributions": 50
-        },
-        {
           "login": "dajiaohuang",
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:28.633Z"
+      "checkedAt": "2026-11-06T15:58:28.633Z",
+      "botExcludedContributorCount": 2
     },
     {
       "repository": "AdrienTorris/awesome-blazor",
@@ -3268,7 +3237,7 @@
     },
     {
       "repository": "aelew/devterms",
-      "rank": 4,
+      "rank": 3,
       "contributions": 1,
       "stars": 156,
       "fork": false,
@@ -3282,10 +3251,6 @@
           "contributions": 246
         },
         {
-          "login": "renovate[bot]",
-          "contributions": 43
-        },
-        {
           "login": "ad-mittal",
           "contributions": 1
         },
@@ -3294,7 +3259,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:29.794Z"
+      "checkedAt": "2026-11-06T15:58:29.794Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "agent-infra/sandbox",
@@ -3318,7 +3284,7 @@
     },
     {
       "repository": "aerovato/container",
-      "rank": 3,
+      "rank": 2,
       "contributions": 1,
       "stars": 385,
       "fork": false,
@@ -3332,15 +3298,12 @@
           "contributions": 153
         },
         {
-          "login": "github-actions[bot]",
-          "contributions": 4
-        },
-        {
           "login": "dajiaohuang",
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:30.443Z"
+      "checkedAt": "2026-11-06T15:58:30.443Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "Aguafrommars/TheIdServer",
@@ -3386,7 +3349,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:30.772Z"
+      "checkedAt": "2026-11-06T15:58:30.772Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "AI4Finance-Foundation/FinRobot",
@@ -3444,7 +3408,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:31.656Z"
+      "checkedAt": "2026-11-06T15:58:31.656Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "aishwaryanr/awesome-generative-ai-guide",
@@ -3484,7 +3449,7 @@
     },
     {
       "repository": "ajinabraham/libsast",
-      "rank": 5,
+      "rank": 4,
       "contributions": 1,
       "stars": 138,
       "fork": false,
@@ -3496,10 +3461,6 @@
         {
           "login": "ajinabraham",
           "contributions": 273
-        },
-        {
-          "login": "dependabot[bot]",
-          "contributions": 2
         },
         {
           "login": "lgtm-migrator",
@@ -3514,7 +3475,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:32.661Z"
+      "checkedAt": "2026-11-06T15:58:32.661Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "AlaSQL/alasql",
@@ -3620,7 +3582,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:34.594Z"
+      "checkedAt": "2026-11-06T15:58:34.594Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "alexruperez/SecurePropertyStorage",
@@ -3654,7 +3617,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:34.873Z"
+      "checkedAt": "2026-11-06T15:58:34.873Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "alteryx/locust-grasshopper",
@@ -3708,7 +3672,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:35.486Z"
+      "checkedAt": "2026-11-06T15:58:35.486Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "Amal-David/awesome-jev",
@@ -3758,7 +3723,8 @@
           "contributions": 2
         }
       ],
-      "checkedAt": "2026-11-06T15:58:36.080Z"
+      "checkedAt": "2026-11-06T15:58:36.080Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "amro/gibbon",
@@ -3800,7 +3766,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:36.768Z"
+      "checkedAt": "2026-11-06T15:58:36.768Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "anaskhan96/soup",
@@ -3826,7 +3793,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:37.138Z"
+      "checkedAt": "2026-11-06T15:58:37.138Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "andreax79/airflow-code-editor",
@@ -3834,7 +3802,7 @@
     },
     {
       "repository": "anderseknert/kube-review",
-      "rank": 4,
+      "rank": 3,
       "contributions": 1,
       "stars": 161,
       "fork": false,
@@ -3846,10 +3814,6 @@
         {
           "login": "anderseknert",
           "contributions": 78
-        },
-        {
-          "login": "dependabot[bot]",
-          "contributions": 47
         },
         {
           "login": "charlieegan3",
@@ -3864,7 +3828,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:37.506Z"
+      "checkedAt": "2026-11-06T15:58:37.506Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "anddea/revanced-patches",
@@ -3872,7 +3837,7 @@
     },
     {
       "repository": "AndersonBY/vector-vein",
-      "rank": 5,
+      "rank": 3,
       "contributions": 1,
       "stars": 942,
       "fork": false,
@@ -3886,14 +3851,6 @@
           "contributions": 943
         },
         {
-          "login": "dependabot[bot]",
-          "contributions": 18
-        },
-        {
-          "login": "github-actions[bot]",
-          "contributions": 10
-        },
-        {
           "login": "eltociear",
           "contributions": 1
         },
@@ -3902,7 +3859,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:37.715Z"
+      "checkedAt": "2026-11-06T15:58:37.715Z",
+      "botExcludedContributorCount": 2
     },
     {
       "repository": "andresgongora/synth-shell",
@@ -3936,7 +3894,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:37.864Z"
+      "checkedAt": "2026-11-06T15:58:37.864Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "andrewda/awesome-frc",
@@ -3986,7 +3945,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:38.444Z"
+      "checkedAt": "2026-11-06T15:58:38.444Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "andybalholm/cascadia",
@@ -4024,7 +3984,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:38.837Z"
+      "checkedAt": "2026-11-06T15:58:38.837Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "Anil-matcha/awesome-muse-connectors",
@@ -4058,7 +4019,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:39.231Z"
+      "checkedAt": "2026-11-06T15:58:39.231Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "AngusKit/AngusTester",
@@ -4080,11 +4042,12 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:39.398Z"
+      "checkedAt": "2026-11-06T15:58:39.398Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "anirudhbiyani/findmytakeover",
-      "rank": 4,
+      "rank": 3,
       "contributions": 1,
       "stars": 179,
       "fork": false,
@@ -4096,10 +4059,6 @@
         {
           "login": "anirudhbiyani",
           "contributions": 244
-        },
-        {
-          "login": "dependabot[bot]",
-          "contributions": 134
         },
         {
           "login": "rupertbg",
@@ -4114,7 +4073,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:39.605Z"
+      "checkedAt": "2026-11-06T15:58:39.605Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "anomalyco/opentui",
@@ -4148,7 +4108,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:39.750Z"
+      "checkedAt": "2026-11-06T15:58:39.750Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "ankane/production_rails",
@@ -4178,7 +4139,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:39.753Z"
+      "checkedAt": "2026-11-06T15:58:39.753Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "AnotiaWang/awesome-decision-models",
@@ -4248,11 +4210,12 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:41.205Z"
+      "checkedAt": "2026-11-06T15:58:41.205Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "antimony-lang/antimony",
-      "rank": 5,
+      "rank": 4,
       "contributions": 1,
       "stars": 171,
       "fork": false,
@@ -4264,10 +4227,6 @@
         {
           "login": "garritfra",
           "contributions": 506
-        },
-        {
-          "login": "dependabot[bot]",
-          "contributions": 45
         },
         {
           "login": "YerinAlexey",
@@ -4282,7 +4241,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:41.272Z"
+      "checkedAt": "2026-11-06T15:58:41.272Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "antonioribeiro/countries",
@@ -4358,7 +4318,7 @@
     },
     {
       "repository": "appleple/smartblock",
-      "rank": 4,
+      "rank": 3,
       "contributions": 1,
       "stars": 317,
       "fork": false,
@@ -4376,15 +4336,12 @@
           "contributions": 146
         },
         {
-          "login": "dependabot[bot]",
-          "contributions": 92
-        },
-        {
           "login": "dajiaohuang",
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:43.442Z"
+      "checkedAt": "2026-11-06T15:58:43.442Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "ash-project/ash",
@@ -4410,7 +4367,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:43.679Z"
+      "checkedAt": "2026-11-06T15:58:43.679Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "Asymptote-Labs/agent-beacon",
@@ -4460,7 +4418,8 @@
           "contributions": 3
         }
       ],
-      "checkedAt": "2026-11-06T15:58:44.135Z"
+      "checkedAt": "2026-11-06T15:58:44.135Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "awesome-algorand/awesome-algorand",
@@ -4542,7 +4501,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:46.097Z"
+      "checkedAt": "2026-11-06T15:58:46.097Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "BugeStudioTeam/Buge-App-Manager",
@@ -4576,7 +4536,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:46.105Z"
+      "checkedAt": "2026-11-06T15:58:46.105Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "bytedance/AdsGlobalPackage",
@@ -4674,7 +4635,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:48.068Z"
+      "checkedAt": "2026-11-06T15:58:48.068Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "coldteadotai/abide",
@@ -4708,7 +4670,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:48.148Z"
+      "checkedAt": "2026-11-06T15:58:48.148Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "csinva/imodels",
@@ -4750,7 +4713,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:48.615Z"
+      "checkedAt": "2026-11-06T15:58:48.615Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "ctjhoa/rust-learning",
@@ -4782,7 +4746,7 @@
     },
     {
       "repository": "cubxxw/awesome-cs-course",
-      "rank": 5,
+      "rank": 4,
       "contributions": 1,
       "stars": 197,
       "fork": false,
@@ -4794,10 +4758,6 @@
         {
           "login": "cubxxw",
           "contributions": 193
-        },
-        {
-          "login": "dependabot[bot]",
-          "contributions": 9
         },
         {
           "login": "3293172751n",
@@ -4812,7 +4772,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:49.606Z"
+      "checkedAt": "2026-11-06T15:58:49.606Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "custom-components/ble_monitor",
@@ -4850,7 +4811,8 @@
           "contributions": 3
         }
       ],
-      "checkedAt": "2026-11-06T15:58:49.924Z"
+      "checkedAt": "2026-11-06T15:58:49.924Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "custom-components/places",
@@ -4884,7 +4846,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:50.218Z"
+      "checkedAt": "2026-11-06T15:58:50.218Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "cybermaxs/awesome-analyzers",
@@ -4922,7 +4885,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:51.037Z"
+      "checkedAt": "2026-11-06T15:58:51.037Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "cwinvestments/memstack",
@@ -4948,7 +4912,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:51.065Z"
+      "checkedAt": "2026-11-06T15:58:51.065Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "cyclejs-community/awesome-cyclejs",
@@ -5006,7 +4971,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:52.118Z"
+      "checkedAt": "2026-11-06T15:58:52.118Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "daanx/mimalloc-bench",
@@ -5014,7 +4980,7 @@
     },
     {
       "repository": "d-513/grok-bot-nix",
-      "rank": 3,
+      "rank": 2,
       "contributions": 1,
       "stars": 1,
       "fork": false,
@@ -5024,10 +4990,6 @@
       "contributorsUrl": "https://github.com/d-513/grok-bot-nix/graphs/contributors",
       "topContributors": [
         {
-          "login": "github-actions[bot]",
-          "contributions": 31
-        },
-        {
           "login": "d-513",
           "contributions": 6
         },
@@ -5036,7 +4998,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:52.443Z"
+      "checkedAt": "2026-11-06T15:58:52.443Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "dagrejs/graphlib",
@@ -5078,7 +5041,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:53.084Z"
+      "checkedAt": "2026-11-06T15:58:53.084Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "daac-tools/vibrato",
@@ -5112,7 +5076,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:53.180Z"
+      "checkedAt": "2026-11-06T15:58:53.180Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "dagucloud/dagu",
@@ -5170,7 +5135,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:54.085Z"
+      "checkedAt": "2026-11-06T15:58:54.085Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "daniel-frak/keycloak-user-migration",
@@ -5198,7 +5164,7 @@
     },
     {
       "repository": "DanielCardonaRojas/codemark",
-      "rank": 4,
+      "rank": 3,
       "contributions": 1,
       "stars": 138,
       "fork": false,
@@ -5212,10 +5178,6 @@
           "contributions": 408
         },
         {
-          "login": "dependabot[bot]",
-          "contributions": 2
-        },
-        {
           "login": "Katalizatori",
           "contributions": 1
         },
@@ -5224,7 +5186,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:54.890Z"
+      "checkedAt": "2026-11-06T15:58:54.890Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "DanielMartensson/Open-SAE-J1939",
@@ -5306,7 +5269,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:56.685Z"
+      "checkedAt": "2026-11-06T15:58:56.685Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "darrenldl/docfd",
@@ -5336,7 +5300,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:56.871Z"
+      "checkedAt": "2026-11-06T15:58:56.871Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "dashbitco/mox",
@@ -5370,7 +5335,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:57.065Z"
+      "checkedAt": "2026-11-06T15:58:57.065Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "dashbitco/nimble_publisher",
@@ -5456,7 +5422,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:58.836Z"
+      "checkedAt": "2026-11-06T15:58:58.836Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "dbcli/pgcli",
@@ -5516,13 +5483,10 @@
         {
           "login": "dajiaohuang",
           "contributions": 1
-        },
-        {
-          "login": "dependabot[bot]",
-          "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:58:59.771Z"
+      "checkedAt": "2026-11-06T15:58:59.771Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "DeepSpec/InteractionTrees",
@@ -5624,7 +5588,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:01.567Z"
+      "checkedAt": "2026-11-06T15:59:01.567Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "django-cms/djangocms-admin-style",
@@ -5654,7 +5619,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:01.889Z"
+      "checkedAt": "2026-11-06T15:59:01.889Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "dj-nitehawk/MongoDB.Entities",
@@ -5732,7 +5698,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:02.998Z"
+      "checkedAt": "2026-11-06T15:59:02.998Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "doctrine/instantiator",
@@ -5786,7 +5753,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:04.066Z"
+      "checkedAt": "2026-11-06T15:59:04.066Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "domn1995/dunet",
@@ -5820,7 +5788,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:04.480Z"
+      "checkedAt": "2026-11-06T15:59:04.480Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "dotnet-state-machine/stateless",
@@ -5858,7 +5827,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:04.692Z"
+      "checkedAt": "2026-11-06T15:59:04.692Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "dotnet-presentations/dotnet-maui-workshop",
@@ -5898,13 +5868,10 @@
         {
           "login": "dajiaohuang",
           "contributions": 1
-        },
-        {
-          "login": "dependabot[bot]",
-          "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:05.526Z"
+      "checkedAt": "2026-11-06T15:59:05.526Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "dpt/The-Great-Escape-in-C",
@@ -5934,7 +5901,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:05.543Z"
+      "checkedAt": "2026-11-06T15:59:05.543Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "dreamhead/moco",
@@ -5964,7 +5932,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:06.048Z"
+      "checkedAt": "2026-11-06T15:59:06.048Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "dtc111111/awesome-representation-for-robotics",
@@ -5998,7 +5967,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:06.316Z"
+      "checkedAt": "2026-11-06T15:59:06.316Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "duckdb/dbt-duckdb",
@@ -6128,7 +6098,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:08.961Z"
+      "checkedAt": "2026-11-06T15:59:08.961Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "handsomestWei/patent-disclosure-skill",
@@ -6162,7 +6133,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:09.263Z"
+      "checkedAt": "2026-11-06T15:59:09.263Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "harry0703/MoneyPrinterTurbo",
@@ -6174,7 +6146,7 @@
     },
     {
       "repository": "hassio-addons/app-aircast",
-      "rank": 5,
+      "rank": 3,
       "contributions": 1,
       "stars": 410,
       "fork": false,
@@ -6188,14 +6160,6 @@
           "contributions": 172
         },
         {
-          "login": "renovate[bot]",
-          "contributions": 55
-        },
-        {
-          "login": "dependabot[bot]",
-          "contributions": 46
-        },
-        {
           "login": "velijv",
           "contributions": 1
         },
@@ -6204,7 +6168,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:09.706Z"
+      "checkedAt": "2026-11-06T15:59:09.706Z",
+      "botExcludedContributorCount": 2
     },
     {
       "repository": "headroomlabs-ai/headroom",
@@ -6274,7 +6239,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:11.168Z"
+      "checkedAt": "2026-11-06T15:59:11.168Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "joinmarket-webui/jam",
@@ -6316,7 +6282,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:11.893Z"
+      "checkedAt": "2026-11-06T15:59:11.893Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "jkudish/jev-browser",
@@ -6346,7 +6313,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:11.923Z"
+      "checkedAt": "2026-11-06T15:59:11.923Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "kalkih/mini-graph-card",
@@ -6392,7 +6360,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:12.453Z"
+      "checkedAt": "2026-11-06T15:59:12.453Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "Kikobeats/awesome-network-js",
@@ -6422,7 +6391,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:12.643Z"
+      "checkedAt": "2026-11-06T15:59:12.643Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "Lakr233/vphone-cli",
@@ -6484,7 +6454,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:13.713Z"
+      "checkedAt": "2026-11-06T15:59:13.713Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "latex2html/latex2html",
@@ -6554,7 +6525,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:14.779Z"
+      "checkedAt": "2026-11-06T15:59:14.779Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "monoio-rs/monoio",
@@ -6578,7 +6550,7 @@
     },
     {
       "repository": "mlorentedev/hive",
-      "rank": 4,
+      "rank": 2,
       "contributions": 1,
       "stars": 10,
       "fork": false,
@@ -6592,19 +6564,12 @@
           "contributions": 392
         },
         {
-          "login": "dependabot[bot]",
-          "contributions": 70
-        },
-        {
-          "login": "github-actions[bot]",
-          "contributions": 2
-        },
-        {
           "login": "dajiaohuang",
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:15.323Z"
+      "checkedAt": "2026-11-06T15:59:15.323Z",
+      "botExcludedContributorCount": 2
     },
     {
       "repository": "nageoffer/ragent",
@@ -6666,7 +6631,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:16.633Z"
+      "checkedAt": "2026-11-06T15:59:16.633Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "onnxsim/onnxsim",
@@ -6698,7 +6664,7 @@
     },
     {
       "repository": "ParisNeo/lollms",
-      "rank": 4,
+      "rank": 3,
       "contributions": 1,
       "stars": 106,
       "fork": false,
@@ -6712,10 +6678,6 @@
           "contributions": 1381
         },
         {
-          "login": "dependabot[bot]",
-          "contributions": 3
-        },
-        {
           "login": "celtic-coder",
           "contributions": 1
         },
@@ -6724,7 +6686,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:17.556Z"
+      "checkedAt": "2026-11-06T15:59:17.556Z",
+      "botExcludedContributorCount": 1
     },
     {
       "repository": "philhawthorne/ha-dockermon",
@@ -6786,7 +6749,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:18.341Z"
+      "checkedAt": "2026-11-06T15:59:18.341Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "rabits/ha-ef-ble",
@@ -6832,7 +6796,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:19.305Z"
+      "checkedAt": "2026-11-06T15:59:19.305Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "ricoberger/vault-secrets-operator",
@@ -6874,7 +6839,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:19.670Z"
+      "checkedAt": "2026-11-06T15:59:19.670Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "rikulo/stream",
@@ -6904,7 +6870,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:19.992Z"
+      "checkedAt": "2026-11-06T15:59:19.992Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "rime/rime-emoji",
@@ -6962,7 +6929,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:20.932Z"
+      "checkedAt": "2026-11-06T15:59:20.932Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "rstackjs/rspack-vue-loader",
@@ -6992,7 +6960,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:21.120Z"
+      "checkedAt": "2026-11-06T15:59:21.120Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "ron190/jsql-injection",
@@ -7022,7 +6991,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:21.295Z"
+      "checkedAt": "2026-11-06T15:59:21.295Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "samber/awesome-prometheus-alerts",
@@ -7152,7 +7122,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:23.899Z"
+      "checkedAt": "2026-11-06T15:59:23.899Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "tokio-rs/tokio",
@@ -7270,7 +7241,8 @@
           "contributions": 3
         }
       ],
-      "checkedAt": "2026-11-06T15:59:26.526Z"
+      "checkedAt": "2026-11-06T15:59:26.526Z",
+      "botExcludedContributorCount": 0
     },
     {
       "repository": "zilliztech/vector-graph-rag",
@@ -7296,7 +7268,8 @@
           "contributions": 1
         }
       ],
-      "checkedAt": "2026-11-06T15:59:27.490Z"
+      "checkedAt": "2026-11-06T15:59:27.490Z",
+      "botExcludedContributorCount": 0
     }
   ],
   "featured": [
@@ -7318,5 +7291,27 @@
     "kuan-er/sjtu-agent",
     "astrelsky/GhidraOrbis",
     "massimodeluisa/sidus-tools"
-  ]
+  ],
+  "botFilter": {
+    "excludedAccountLoginsEnding": "[bot]",
+    "excludedAccounts": [
+      "claude[bot]",
+      "dependabot-preview[bot]",
+      "dependabot[bot]",
+      "github-actions[bot]",
+      "google-labs-jules[bot]",
+      "praisonai-triage-agent[bot]",
+      "renovate[bot]",
+      "smithery[bot]"
+    ],
+    "rankBasis": "After excluding bot accounts from the captured GitHub Contributors API top-five list; the user's attributed commit count is unchanged.",
+    "capturedAt": "2026-11-06T15:59:27.490Z"
+  },
+  "rankCountsWithoutBots": {
+    "1": 1,
+    "2": 45,
+    "3": 57,
+    "4": 39,
+    "5": 15
+  }
 }
